@@ -1,31 +1,32 @@
-import boto3
-import gzip
-from io import BytesIO
-import os 
+import pandas as pd
 
+# Load the data from a CSV file
+df = pd.read_csv('combined_data.csv')
 
-#add them to your computer's env variables lsit for security
-aws_access_key_id = os.getenv('aws_access_key_id')
-aws_secret_access_key = os.getenv('aws_secret_access_key')
+# Convert the 'INTIME' and 'OUTTIME' columns to datetime
+df['INTIME'] = pd.to_datetime(df['INTIME'])
+df['OUTTIME'] = pd.to_datetime(df['OUTTIME'])
 
-# Create an S3 client
-s3 = boto3.client("s3", aws_access_key_id, aws_secret_access_key)
+# Calculate the length of stay in the ICU
+df['ICU_STAY_LENGTH'] = (df['OUTTIME'] - df['INTIME']).dt.total_seconds() / 3600  # ICU stay length in hours
 
-# Specify the bucket names and file keys
-bucket_name = 'cse531bucket'
-file_keys = ['DIAGNOSES_ICD.csv.gz', 'ICUSTAYS.csv.gz']
+# missing values
+df['SHORT DESCRIPTION'] = df['SHORT DESCRIPTION'].fillna('NA')
+df['GENDER']= df['GENDER'].fillna("NA")
 
-data = []
-for file_key in file_keys:
-    response = s3.get_object(Bucket=bucket_name, Key=file_key)
-    gzipped_file_data = response['Body'].read()
-    
-    # Decompress the data
-    with gzip.GzipFile(fileobj=BytesIO(gzipped_file_data)) as file:
-        decompressed_data = file.read()
-    
-    data.append(decompressed_data)
+# removing duplicates based on 'SUBJECT_ID' and 'HADM_ID'
+df = df.drop_duplicates(subset=['SUBJECT_ID', 'HADM_ID'])
 
-# Print the contents of the files
-for file_data in data:
-    print(file_data.decode('utf-8'))  # Assuming the file content is in UTF-8
+# making sure all the care units are valid
+valid_care_units = ['CCU', 'CSRU', 'MICU', "NICU", "NWARD", "SICU", "TSICU"]  # Replace with actual care unit names
+df['FIRST_CAREUNIT'] = df['FIRST_CAREUNIT'].apply(lambda x: x if x in valid_care_units else 'Other')
+df['LAST_CAREUNIT'] = df['LAST_CAREUNIT'].apply(lambda x: x if x in valid_care_units else 'Other')
+
+# Standardize the gender column to have consistent formatting, e.g., "M" and "F"
+df['GENDER'] = df['GENDER'].str.upper()
+df['GENDER'] = df['GENDER'].map({'MALE': 'M', 'FEMALE': 'F', 'M': 'M', 'F': 'F'})
+
+# Save the cleaned and preprocessed data to a new CSV file
+df.to_csv('cleaned_data.csv', index=False)
+
+print("Data cleaning and preprocessing completed.")
