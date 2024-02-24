@@ -1,0 +1,6 @@
+LABEL column does not exist in filtered_df
+columns:  Index(['ROW_ID', 'SUBJECT_ID', 'HADM_ID', 'ICUSTAY_ID', 'ITEMID', 'CHARTTIME',
+       'STORETIME', 'CGID', 'VALUE', 'VALUENUM', 'VALUEUOM', 'WARNING',
+       'ERROR', 'RESULTSTATUS', 'STOPPED'],
+      dtype='object')
+end of file
