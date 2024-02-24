@@ -24,6 +24,7 @@ if 'LABEL' in filtered_df.columns:
         print(label)
 else:
     print("LABEL column does not exist in filtered_df")
+    print('columns: ', filtered_df.columns)
 
 filtered_df.to_csv(outputFolderPath+'filtered_chartevents.csv', index=False)
 

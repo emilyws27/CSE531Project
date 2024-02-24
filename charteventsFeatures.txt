@@ -1,0 +1,6202 @@
+O2 Flow
+Inspired O2 Fraction
+PCA dose
+PCA lockout (min)
+PCA 1 hour limit
+PCA basal rate (mL/hour)
+PCA inject
+PCA attempt
+PCA total dose
+Arterial O2 pressure
+Arterial CO2 Pressure
+PH (Arterial)
+Arterial Base Excess
+Lactic Acid
+TCO2 (calc) Arterial
+Heart Rate
+Non Invasive Blood Pressure systolic
+Non Invasive Blood Pressure diastolic
+Non Invasive Blood Pressure mean
+Respiratory Rate
+O2 saturation pulseoxymetry
+PEEP set
+Temperature Fahrenheit
+Fspn High
+Respiratory Rate (Total)
+Plateau Pressure
+Total PEEP Level
+Minute Volume Alarm - Low
+Minute Volume Alarm - High
+Paw High
+Vti High
+Apnea Interval
+Tidal Volume (set)
+Tidal Volume (observed)
+Minute Volume
+Respiratory Rate (Set)
+Respiratory Rate (spontaneous)
+Peak Insp. Pressure
+Mean Airway Pressure
+Inspiratory Time
+Expiratory Ratio
+Inspiratory Ratio
+Admission Weight (Kg)
+Admission Weight (lbs.)
+Heart rate Alarm - High
+Heart Rate Alarm - Low
+Non-Invasive Blood Pressure Alarm - High
+Non-Invasive Blood Pressure Alarm - Low
+Glucose finger stick
+Arterial Blood Pressure systolic
+Arterial Blood Pressure diastolic
+Arterial Blood Pressure mean
+Central Venous Pressure
+Arterial Blood Pressure Alarm - Low
+Arterial Blood Pressure Alarm - High
+O2 Saturation Pulseoxymetry Alarm - High
+O2 Saturation Pulseoxymetry Alarm - Low
+Resp Alarm - High
+Resp Alarm - Low
+SpO2 Desat Limit
+Hemoglobin
+Hematocrit (serum)
+WBC
+Chloride (serum)
+Creatinine
+Glucose (serum)
+Magnesium
+Sodium (serum)
+BUN
+Calcium non-ionized
+Phosphorous
+Anion gap
+Potassium (serum)
+HCO3 (serum)
+Platelet Count
+Phenytoin (Dilantin)
+Prothrombin time
+PTT
+INR
+CK (CPK)
+Troponin-T
+CK-MB
+Differential-Basos
+Differential-Eos
+Differential-Lymphs
+Differential-Monos
+Differential-Neuts
+Tidal Volume (spontaneous)
+PSV Level
+Height
+Height (cm)
+Cholesterol
+HDL
+LDL calculated
+Triglyceride
+Daily Weight
+Inspired Gas Temp.
+MDI #1 Puff
+MDI #2 Puff
+Ventilator Tank #1
+Ventilator Tank #2
+Cuff Pressure
+Spont Vt
+Spont RR
+Albumin
+Arterial O2 Saturation
+AST
+ALT
+Alkaline Phosphate
+Feeding Weight
+Differential-Atyps
+Differential-Bands
+Total Bilirubin
+Cash amount
+Manual Blood Pressure Systolic Left
+Potassium (whole blood)
+Hemodialysis Output
+LDH
+Fibrinogen
+PH (Venous)
+Ionized Calcium
+Manual Blood Pressure Diastolic Left
+PH (dipstick)
+Specific Gravity (urine)
+Direct Bilirubin
+ART Blood Pressure Alarm - High
+ART Blood Pressure Alarm - Low
+Amylase
+Lipase
+Volume In (PD)
+Volume Out (PD)
+TCO2 (calc) Venous
+Venous CO2 Pressure
+Venous O2 Pressure
+Dwell Time (Peritoneal Dialysis)
+Ultrafiltrate Output
+Vancomycin (Random)
+Sodium (whole blood)
+O2 Flow (additional cannula)
+ART Lumen Volume
+VEN Lumen Volume
+BiPap EPAP
+BiPap O2 Flow
+BiPap IPAP
+Vancomycin (Trough)
+Arctic Sun/Alsius Temp #1 C
+BiPap bpm (S/T -Back up)
+C Reactive Protein (CRP)
+Sed Rate
+Impaired Skin Length #1
+Impaired Skin Width #1
+Impaired Skin Length #2
+Impaired Skin Width #2
+D-Dimer
+Cortisol
+ART BP Systolic
+ART BP Diastolic
+ART BP mean
+Central Venous Pressure Alarm - High
+Central Venous Pressure  Alarm - Low
+CK-MB fraction (%)
+Impaired Skin Depth #1
+CO (Arterial)
+SVV (Arterial)
+Temperature Celsius
+Chloride (whole blood)
+SV (Arterial)
+Cardiac Output (thermodilution)
+ScvO2 (Presep)
+Glucose (whole blood)
+Arctic Sun/Alsius Set Temp
+Arctic Sun/Alsius Temp #2 C
+Hematocrit (whole blood - calc)
+Central Venous O2% Sat
+Impaired Skin Depth #6
+Impaired Skin Depth #7
+Impaired Skin Length #6
+Impaired Skin Length #7
+Impaired Skin Width #6
+Impaired Skin Width #7
+Cardiac Output (CCO)
+Impaired Skin Length #8
+Impaired Skin Width #8
+Cuff Volume (mL)
+Pinsp (Draeger only)
+Arctic Sun Water Temp
+QTc
+Blood Temperature CCO (C)
+FK506
+Mixed Venous O2% Sat
+Recruitment Press
+Recruitment Duration
+MDI #3 Puff
+Citrate (ACD-A)
+PBP (Prefilter) Replacement Rate
+Post Filter Replacement Rate
+Blood Flow (ml/min)
+Access Pressure
+Filter Pressure
+Effluent Pressure
+Return Pressure
+Replacement Rate
+Dialysate Rate
+Hourly Patient Fluid Removal
+Current Goal
+Heparin Dose (per hour)
+Pulmonary Artery Pressure systolic
+Pulmonary Artery Pressure diastolic
+Pulmonary Artery Pressure mean
+SvO2
+PA Line cm Mark
+Temporary Pacemaker Wires Venticular
+Temporary Pacemaker Wires Atrial
+Temporary Pacemaker Rate
+Temporary Atrial Sens Setting mV
+Temporary Atrial Stim Setting mA
+Pulmonary Artery Pressure Alarm - High
+Pulmonary Artery Pressure Alarm - Low
+Temporary Venticular Sens Threshold mV
+Temporary Venticular Stim Threshold mA
+Temporary Pacemaker Wires Ground
+Temporary Atrial Sens Threshold mV
+Temporary Atrial Stim Threshold mA
+Temporary Ventricular Sens Setting mV
+PO2 (Mixed Venous)
+Temporary Ventricular Stim Setting mA
+Impaired Skin Depth #3
+Impaired Skin Length #3
+Impaired Skin Width #3
+Impaired Skin Depth #2
+Ammonia
+Manual Blood Pressure Systolic Right
+Brain Natiuretic Peptide (BNP)
+Impaired Skin Length #4
+Impaired Skin Width #4
+Baseline Current/mA
+Current Used/mA
+Transpulmonary Pressure (Exp. Hold)
+Transpulmonary Pressure (Insp. Hold)
+Medication Infusion Rate - Adjunctive Pain Management
+Permanent Pacemaker Rate
+Impaired Skin Length #5
+Impaired Skin Width #5
+Vd/Vt Ratio
+PCV Level (Avea)
+GI pH
+Gentamicin (Random)
+Thrombin
+Negative Insp. Force
+Total Granulocyte Count (TGC)
+Estimated Energy Needs/Kg
+Estimated Protein Needs/Kg
+Total Protein
+AaDO2ApacheIIValue
+AgeApacheIIScore
+AgeApacheIIValue
+APACHE II
+APACHE II PDR - Adjusted
+APACHE II Predecited Death Rate
+ChpApacheIIScore
+CreatinineApacheIIScore
+CreatinineApacheIIValue
+DswfApacheScore
+FiO2ApacheIIValue
+GcsApacheIIScore
+HCO3ApacheIIValue
+HCO3Score
+HematocritApacheIIScore
+HematocritApacheIIValue
+HrApacheIIScore
+HrApacheIIValue
+MapApacheIIScore
+MapApacheIIValue
+OxygenApacheIIScore
+PhApacheIIScore
+PHApacheIIValue
+PotassiumApacheIIScore
+PotassiumApacheIIValue
+RrApacheIIScore
+RRApacheIIValue
+SodiumApacheIIScore
+SodiumApacheIIValue
+TempApacheIIScore
+TempApacheIIValue
+WbcApacheIIScore
+WBCApacheIIValue
+AgeScore_ApacheIV
+Albumin_ApacheIV
+AlbuminScore_ApacheIV
+Apache IV Age
+APACHEIII
+ApacheIV_LOS
+ApacheIV_Mortality prediction
+ApacheIV_Natural antilog
+APS
+Bilirubin_ApacheIV
+BiliScore_ApacheIV
+BUN_ApacheIV
+BunScore_ApacheIV
+ChronicScore_ApacheIV
+Creatinine_ApacheIV
+CreatScore_ApacheIV
+FiO2_ApacheIV
+GcsScore_ApacheIV
+Glucose_ApacheIV
+GlucoseScore_ApacheIV
+Hematocrit_ApacheIV
+HR_ApacheIV
+HrScore_ApacheIV
+HtScore_ApacheIV
+MAP_ApacheIV
+MapScore_ApacheIV
+OxygenScore_ApacheIV
+PCO2_ApacheIV
+PH_ApacheIV
+PHPaCO2Score_ApacheIV
+RR_ApacheIV
+RRScore_ApacheIV
+Sodium_ApacheIV
+SodiumScore_ApacheIV
+TemperatureF_ApacheIV
+TempScore_ApacheIV
+UrineScore_ApacheIV
+WBC_ApacheIV
+WBCScore_ApacheIV
+Urine output_ApacheIV
+Apache IV PaFiRatio
+PO2_ApacheIV
+Ejection Fraction
+LOS pre-ICU admission
+Digoxin
+Orthostatic HR lying
+Orthostatic HR sitting
+Orthostatic BPs standing
+Orthostatic BPs lying
+Orthostatic BPs sitting
+Orthostatic HR standing
+Orthostatic BPd lying
+Orthostatic BPd sitting
+Orthostatic BPd standing
+ATC %
+Uric Acid
+Gentamicin (Trough)
+Gentamicin (Peak)
+PCA bolus
+Tobramycin (Trough)
+Assisted Systole
+Augmented Diastole
+BAEDP
+IABP Mean
+Unassisted Systole
+PAEDP
+IABP Volume
+Activated Clotting Time
+Intra Cranial Pressure
+Cerebral Perfusion Pressure
+Bladder Pressure
+Intra Cranial Pressure Alarm - High
+Intra Cranial Pressure Alarm - Low
+Cerebral Perfusion Pressure Alarm - High
+Cerebral Perfusion Pressure Alarm - Low
+P High (APRV)
+P Low (APRV)
+T High (APRV)
+T Low (APRV)
+Serum Osmolality
+Manual Blood Pressure Diastolic Right
+Flow Rate (L/min)
+Skeletal Traction #1 - Pounds
+Medication Added Amount  #1 (Peritoneal Dialysis)
+Medication Added Amount  #2 (Peritoneal Dialysis)
+Phenobarbital
+Phenytoin (Free)
+Rest HR - Aerobic Capacity
+Rest O2 Sat - Aerobic Capacity
+Activity HR - Aerobic Capacity
+Activity O2 Sat - Aerobic Capacity
+Recovery HR - Aerobic Capacity
+Recovery O2 Sat - Aerobic Capacity
+Impaired Skin Depth #4
+Small Volume Neb Dose #2
+Impaired Skin Depth #5
+Rest HR -  Aerobic Activity Response
+Rest O2 Sat - Aerobic Activity Response
+Activity HR - Aerobic Activity Response
+Activity O2 sat - Aerobic Activity Response
+Recovery HR - Aerobic Activity Response
+Recovery O2 sat - Aerobic Activity Response
+Rest RR - Aerobic Capacity
+Rest RR - Aerobic Activity Response
+Vital Cap
+Head of Bead Measurement
+Activity RR - Aerobic Activity Response
+LDL measured
+Impaired Skin Depth #8
+Impaired Skin Depth #9
+Impaired Skin Length #9
+Impaired Skin Width #9
+Activity RR - Aerobic Capacity
+Recovery RR - Aerobic Capacity
+PCWP
+Tobramycin (Random)
+Tobramycin (Peak)
+Pulsus Paradoxus
+Peak Exp Flow Rate
+Cardiac Index (CI NICOM)
+Cardiac Output (CO NICOM)
+Stroke Volume (SV NICOM)
+Stroke Volume Index (SVI NICOM)
+Stroke Volume Variation (SVV NICOM)
+Temporary AV interval
+CO / CI Change
+SVI Change
+Epidural Infusion Rate (mL/hr)
+Epidural Total Dose (mL)
+Epidural Bolus (mL)
+Recovery RR - Aerobic Activity Response
+Total Peripheral Resistance (TPR) (NICOM)
+Total Peripheral Resistance Index (TPRI) (NICOM)
+CI (PiCCO)
+CO (PiCCO)
+SVI (PiCCO)
+SVV (PiCCO)
+Thoracic Fluid Content (TFC) (NICOM)
+Impaired Skin Length #10
+Impaired Skin Width #10
+BIS Index Range
+Resistance
+Doppler BP
+ELWI (PiCCO)
+GEDI (PiCCO)
+SVRI (PiCCO)
+CFI (PiCCO)
+Nitric Oxide
+Nitric Oxide Tank Pressure
+ABI Brachial BP R (Impella)
+Infusion Pressure of Line
+Pump Speed
+Tandem Heart Flow
+Infusate Drops/Minute
+Oxygenator Sweep Rate
+Tandem Heart Access Line Catheter Length
+CO-Tandem Heart Flow
+Vancomycin (Peak)
+SOFA Score
+Procan Napa
+Procan
+ABI Brachial BP L
+ABI Ankle BP R
+ABI Ankle BP L (Impella)
+Clot Size (cm)
+EF (CCO)
+Impaired Skin Depth #10
+ScvO2 Central Venous O2% Sat
+ABI Ankle BP L
+ABI Brachial BP R
+Freeform Chemistry
+Intra Cranial Pressure #2
+Aortic Pressure Signal - Diastolic
+Aortic Pressure Signal - Systolic
+Impella 2.5 Flow Rate
+Purge Pressure
+Purge Solution Flow Rate
+Impella Catheter Position
+Skeletal Traction #2 - Pounds
+TFCd (NICOM)
+TFCd0 (NICOM)
+CO2 production
+Breast Feed - L (Minutes)
+Breast Feed - R (Minutes)
+Alsius Bath Temp
+Intra Cranial Pressure #2 Alarm - High
+Intra Cranial Pressure #2 Alarm - Low
+ITBVI (PiCCO)
+Left Ventricular Assit Device Flow
+Right Ventricular Assist Device Flow
+VAD Beat Rate R
+Vacuum Assist
+VAD Beat Rate L
+O2 Consumption
+ECMO
+Apache IV A-aDO2
+Freeform Coags
+WBC (4-11,000)
+Pain Present
+Pain Assess Method
+Service Type
+WBC   (4-11,000)
+Riker-SAS Scale
+bed bath
+Code Status
+Ectopy Frequency
+Ectopy Type
+Heart Rhythm
+Imp Skin Cleanse #1
+Imp Skin Cleanse #2
+ImpSkin Character #1
+ImpSkin Character #2
+ImpSkin Treatment #1
+ImpSkin Treatment #2
+ImpSkin Wound Base#1
+ImpSkin Wound Base#2
+Impaired Skin Site#1
+Impaired Skin Site#2
+NBP Mean
+Precautions
+PressSoreCleansing#1
+Braden Mobility
+Braden Moisture
+Braden Nutrition
+Braden Score
+Braden SensoryPercep
+Cough/Deep Breathe
+Diet Type
+Education Handout
+Education Learner
+Education Method
+Education Readiness
+Education Response
+Education Topic #1
+Education Topic #2
+Eye Opening
+FiO2 Set
+GCS Total
+HOB
+IV Site Appear #1
+LLL Lung Sounds
+LUL Lung Sounds
+Level of Conscious
+Motor Response
+Nursing Consultation
+O2 Delivery Device
+O2 Delivery Device#2
+O2 Flow (lpm)
+O2 Flow (lpm) #2
+Oral Cavity
+Orientation
+Pain Location
+Position
+Previous WeightF
+RLL Lung Sounds
+RUL Lung Sounds
+Respiratory Pattern
+Restraint Location
+Restraint Type
+Skin Integrity
+SpO2
+Stool Guaiac
+Support Systems
+Temp. Site
+Temperature C (calc)
+Temperature F
+Turn
+Urine Source
+Verbal Response
+calprevflg
+Fingerstick Glucose
+Alarms
+Parameters Checked
+Health Care Proxy
+INV Line#1SiteAppear
+Inspired Gas Temp
+LCW
+LCWI
+LVSW
+LVSWI
+Low Exhaled Min Vol
+Low Insp. Pressure
+Minute Volume(Obser)
+PEEP Set
+Pacemaker Mode
+Pacemaker Type
+Pacer Wire Condition
+Pacer Wires Atrial
+Pacer Wires Vent
+Peak Flow
+Plateau-Off
+Pressure Support
+Resp Rate (Spont)
+Resp Rate (Total)
+Respiratory Rate Set
+SVI
+SVR
+SVRI
+Sensitivity-Vent
+Side Rails
+Stroke Volume
+Systolic Unloading
+Temperature C
+Temperature F (calc)
+Tidal Volume (Obser)
+Tidal Volume (Set)
+Tidal Volume (Spont)
+Ventilator Mode
+Ventilator Type
+Waveform-Vent
+Risk for Falls
+Arterial BP Mean
+CVP
+Activity
+Activity Tolerance
+Assistance Device
+BSA - English
+BSA - Metric
+C.O.(thermodilution)
+Cardiac Index
+Incision/Wound #3
+Calcium (8.4-10.2)
+Carbon Dioxide
+Chloride (100-112)
+Creatinine (0-1.3)
+Glucose (70-105)
+Hematocrit
+INR (2-4 ref. range)
+Magnesium (1.6-2.6)
+PT(11-13.5)
+PTT(22-35)
+Phosphorous(2.7-4.5)
+Platelets
+Potassium (3.5-5.3)
+RBC
+Sodium (135-148)
+PT
+Calcium
+Chloride
+Glucose
+Potassium
+Sodium
+Angio Site #1
+Pacer Rate
+Therapeutic Bed
+Previous Weight
+Nicardipine
+Abdominal Assessment
+Airway Size
+Airway Type
+Behavior
+Bowel Sounds
+Braden Activity
+Braden Frict/Shear
+Circulation/SkinInt
+Communication
+Compliance (40-60ml)
+Cough Reflex
+Follows Commands
+GI#1 Tube PlaceCheck
+Gag Reflex
+Height of Bed
+High Insp. Pressure
+High Resp. Rate
+RL Strength/Movement
+RU Strength/Movement
+Seizure Activity
+Spontaneous Movement
+LL Strength/Movement
+LU Strength/Movement
+Speech
+Art.pH
+Pain Cause
+Pain Level (Rest)
+Pain Type
+Pain Level
+BUN (6-20)
+CaO2
+O2AV
+O2AVI
+Dialysate Flow ml/hr
+Environment
+Feeding Tube Check
+Feeding Tube Loc
+Feeding Tube Size
+Feeding Tube Type
+Gestational Age
+Glucose Monitor #
+Head Circ       (cm)
+Infant Position
+Muscle Tone
+NG Tube Taped at:
+OG/NG Residual
+Pain
+Peripheral Pulses
+Physioregulation
+Present Weight  (kg)
+Present Weight  (lb)
+Present Weight  (oz)
+Previous Weight (kg)
+Resp Rate
+Retractions
+Spits
+State
+Stress
+Sutures
+Sx Equip Functional
+Temp Axillary [F]
+Temp Skin [C]
+Total Fluids cc/kg/d
+Turgor
+Void
+Weight Change  (gms)
+Work of Breathing
+Birth Weight    (kg)
+Length Calc Inches
+Length in cm
+IV Site #2
+SaO2
+Bag & Mask Present
+Glucometer
+PainLevel Acceptable
+Daily Wake Up
+Lactic Acid(0.5-2.0)
+PressureReduceDevice
+Radiologic Study
+INV Line#2 Zero/Cal
+INV Line#2SiteAppear
+INV Line#3SiteAppear
+INV#2 WaveformAppear
+PressSoreWoundBase#1
+PressSoreWoundBase#2
+Pressure Sore Odor#1
+Pressure Sore Site#1
+Reason For Restraint
+Pain Level/Response
+C.O. (fick)
+PAP Mean
+PVRI
+Back Care
+Incision/Wound #1
+Incision/Wound #2
+Oral Care
+PressSore Depth #1
+PressSoreTreatment#1
+Skin Care
+Removed x 5 Mins
+Restraints Evaluated
+Range of Motion
+Cough Effort
+INV Line#3 Zero/Cal
+INV Line#4 Zero/Cal
+INV Line#4SiteAppear
+INV#3 WaveformAppear
+INV#4 WaveformAppear
+Position Change
+Respiratory Effort
+Total Bili (0-1.5)
+Albumin (>3.2)
+CPK
+CPK/MB
+PA line cm Mark
+Angio Dressing #1
+INV Line#1 Zero/Cal
+INV#1 WaveformAppear
+Incentive Spirometry
+Arterial CO2(Calc)
+Arterial PaCO2
+Arterial PaO2
+Arterial pH
+DO2
+DO2I
+zzO2AV
+zzO2AVI
+Swan SVO2
+Differential-Polys
+GU Catheter Size
+IV Site Appear #3
+Skin Color
+I:E Ratio
+Significant Events
+Family Communication
+Spiritual Support
+Apnea Time Interval
+IV Site Appear #2
+IV Site Appear #4
+IV Site #1
+Abdominal Appearance
+Abdominal Color
+Abdominal Exam
+System Integrity
+Hourly PFR
+Access mmHg
+Blood Flow ml/min
+Dialysate Infusing
+Dialysis Access Site
+Dialysis Access Type
+Dialysis Type
+Effluent Press mmHg
+Filter Pressure mmHg
+Replace Rate ml/hr
+Replace.Fluid Infuse
+Return Pressure mmHg
+Angio Dressing #2
+Angio Site #2
+Press Sore Site #2
+Education Barrier
+Chest Tube Site #1
+Chest Tube Site #2
+BSA
+Admit Wt
+Allergy 1
+Diagnosis/op
+Service
+Admit Ht
+Readmission
+Marital Status
+Religion
+Allergy 2
+Ext
+Allergy 3
+Procedures
+ACT (102-142)
+Cerv Collar Status
+Cervical Collar Type
+Alk. Phosphate
+Dilantin
+Total Bili
+high VE
+Readmit <48 hrs
+IABP setting
+Boundaries
+Breath Sounds [L]
+Breath Sounds [R]
+Capillary Refill
+Cardiac Murmur
+Color (Overall)
+PressSoreTreatment#2
+Mixed Venous O2
+Less Restrict Meas.
+CT #1 Drainage
+CT #1 Dressing
+CT #1 Suction Amount
+CT #3 Drainage
+CT #3 Dressing
+CT #3 Suction Amount
+Chest Tube Site #3
+IV #1 Reason DC'D
+Eye Care
+Ventilator No.
+Neuro Symptoms
+PEEP
+ETT Size
+ETT Taped at (cm)
+FIO2
+FIO2 [Meas]
+Flowrate (l/m)
+High Pressure Relief
+Humidity Temp [Meas]
+Mean PAW [Meas]
+Mode
+PEEP Alarm
+Airway
+Lowest Heart Rate
+Lowest SaO2
+O2 Administration
+Related Activity
+Stimulation
+Day of Life
+ETT Sx Quantity
+Lesions
+Oral Sx Color
+Oral Sx Quantity
+Precordium
+Sheepskin
+Feeding Label Match
+Prong Size
+Prong Type
+Abdominal Girth (cm)
+Abdominal Loops
+Flowrate (cc/min)
+Potassium  (3.5-5.3)
+Sodium  (135-148)
+Total CO2
+Base Excess
+TCO2        (21-30)
+pCO2
+pO2
+PIP
+BP UAC [Mean]
+Behavioral State
+BehavioralIntervent
+Breath Rate
+Disease State
+Environmental Interv
+Eye Shields
+InterventionAssess
+ETT Sx Color
+Eye Lids
+Water Pillow
+Anion Gap   (8-20)
+Chloride  (100-112)
+Parent Called
+Color Change
+Alarms Checked
+Bag and Mask Present
+ID band(s) on
+L&D bands(s) on
+Sx Equip Functioning
+Mom in to Visit
+Base Excess (other)
+TCO2 (other)
+pCO2 (other)
+pO2 (other)
+ph (other)
+Base Excess (cap)
+TCO2 (cap)
+pCO2 (cap)
+pH (cap)
+pO2 (cap)
+Phototherapy Light
+IV Site #3
+Appearance
+Mouth Care
+Caffeine
+Vitamin E
+Total Enteral/kg/day
+Total Fluids/kg/day
+Cobedding
+Murmur Intensity
+Parent Info given
+Zosyn
+Moro Reflex
+PIP Alarm
+Repogyle
+Mom held Infant
+Stool Hemoccult
+Sedation Score
+Ramsey SedationScale
+Cough Type
+Lipid Change Q 12 hr
+Mean PAW
+Fluid In for Calc.
+BP Cuff [Mean]
+Sensitivity
+Vt [Spontaneous]
+Vt [Ventilator]
+Dexamethasone gtts
+Phenylephrine gtts
+CT #2 Crepitus
+Muscular Abnormality
+Skeletal Abnormality
+Weight Change
+Ampicillin
+RVSW
+RVSWI
+RCW
+RCWI
+Cuff Pressure-Airway
+HI/Minute/Volume
+Pressure Sore Odor#2
+Blood Products
+PressSoreCleansing#2
+PCA 1 Hr Limit (mg)
+PCA Basal Rate
+PCA Dose
+PCA Lockout (Min)
+PCA Medication
+Blood Cultures
+CBC
+Erythromycin Oint.
+Temp Rectal [F]
+Vitamin K
+BloodGlucose
+EDC
+Time
+Admit Reason
+Current Level
+Highest Level
+Birthweight (kg)
+Apgar      1 min
+5 min
+10 min
+Fibrinogen (150-400)
+Dialysis Site Appear
+Diastolic Unloading
+Triglyceride (0-200)
+Atr Sens Thresh mV
+Atr Stim Thresh mA
+Gentamicin
+Dad held infant
+Dad in to visit
+Untoward Effect
+IV #2 Reason DC'D
+Bedbath
+Stool Management
+PAO2
+Micro-Neb Treatment
+Vent Sens Thresh mV
+Vent Stim Thresh mA
+Flow-By (lpm)
+Flow-by Sensitivity
+Nasal Sx Color
+Nasal Sx Quantity
+Transfusion Consent
+Grandparents Visit
+Head US
+KUB
+Venous PvCO2
+Venous PvO2
+Venous pH
+Direct Bili (0-0.3)
+Indirect Bili(0-1.0)
+Inc Cleansing #1
+Inc/Wound Packing #1
+Bath
+Troponin
+BANDS
+Bands
+Basos
+Eosinophils
+Weight Kg
+BASOs
+HGB  (10.8-15.8)
+Hematocrit (35-51)
+RSBI (<100)
+cefotaxime
+FeSO4
+ETT Sx Quality
+ETT Changed
+STV
+LYMPHS
+Urine pH
+Replogle Irrigation
+Urine Glucose
+Urine Heme
+Urine Ketones
+Source
+Transducer Calibrate
+FIO2 Alarm-High
+FIO2 Alarm-Low
+Remote Alarm
+Direct Bili
+Suck Reflex
+Time at Breast
+ACT
+PVR
+PCA Total Dose
+ETT (Re)Taped
+Respiratory Support
+BUN    (6-20)
+Creatinine   (0-0.7)
+Lymphs
+MONOs
+Monos
+NEUTS
+Platelet  (150-440)
+Polys
+Red Blood C(3.6-6.2)
+WhiteBloodC 4.0-11.0
+RBC(3.6-6.2)
+WBC 4.0-11.0
+BE
+PCO2
+PO2
+O2 Analyzer Cal
+Hep Flush
+Phototherapy Blanket
+NeoBlue Bank
+NeoBlue Mini
+Collar Care
+AvDO2
+VO2
+VO2I
+avDO2
+CvO2
+Venous CO2(Calc)
+Tank A psi.
+Tank B psi.
+Ve High
+Tolerated new med?
+ETT Position Change
+Lumbar Puncture
+Cardiac Echo
+Eye exam
+pH (Art)
+Left lateral decub
+Seizure Duration
+Na Bicarbonate
+Alkaline Phosphatase
+Calcium   (8.8-10.8)
+Spon RR (Mech.)
+Spon. Vt (L) (Mech.)
+Cartridge/Bag Change
+O2ER
+HOB Measurement
+Enteral In for Calc.
+CT #2 Drainage
+CT #2 Dressing
+CT #2 Suction Amount
+D-Dimer (0-500)
+Urine Leukocytes
+Urine Protein
+Uric Acid (2.7-7.0)
+RSBI Not Completed
+bath
+AaDO2
+State Screen Sample
+Family Meeting held
+Furosemide/Lasix
+triple abx ointment
+ABG Hct
+RSBI (<200)
+ECG
+Parent Ed/Support
+Infant's Behavior
+Latch On
+Position at Breast
+Chest X-Ray
+Breast Assessment
+NICU Procedures
+Vital Sign
+Working Pressure
+FiO2 (Analyzed)
+Vancomycin/Random
+CT #1 Crepitus
+Ventilator Number
+Trach/Size
+CT #3 Crepitus
+Total Protein(6.5-8)
+IV #3 Reason DC'D
+IV #4 Reason DC'D
+ABI (L)
+ABI (R)
+Babygram
+ABG CHLOIRDE
+ABG POTASSIUM
+ABG Chloride
+ABG Potassium
+Recombivax
+Survanta
+hep flush
+PressSore Depth #2
+HI MV
+% Inspir. Time
+Cholesterol (<200)
+Ethanol
+Tylenol
+Pause Time %
+Fentanyl
+Insulin Guideline
+Direct Coombs
+Infant ABO/Rh
+Triglyceride (0-250)
+Chest Tube Site 1
+Potassium Chloride
+Vidaylin
+PMI
+IV Site #4
+Gentamicin Pre (0-2)
+Indomethacin/Indocin
+Parents in to visit
+Diuril
+Ectopy Frequency 2
+Ectopy Type 2
+Trach Care
+Trach Size
+Tracheostomy Type
+Flatus
+EDVI
+Cuff Leak
+Tracheostomy Cuff
+PreSep Catheter SVO2
+Sedation
+Prevnar
+Surgical Procedures
+Analgesic
+Chest Tube Assessm't
+Chest Tube Site 2
+Chest Tube Suction
+Nasal Sx Quality
+Vancomycin
+Cyclogyl
+Cyclomydril
+Criticaid
+myconazole
+Sodium Bicarb
+DTaP
+Prongs Changed
+HiB Vaccine
+Polio Vaccine
+Triple ant. ointment
+Inc Cleansing #2
+Vitamin A injection
+Vancomycin Post
+Narcotic Analgesic
+Vancomycin/Trough
+Incision/Wound #4
+BP PAL [Mean]
+Lasix
+Pt./Family Informed
+GI#2 Tube PlaceCheck
+cyclopentolate
+Eye Exam
+Vancomycin Pre
+BP Left Arm [Mean]
+NO PPM
+NO Tank PSI
+ProTime
+Ptt
+Gentamicin Post 5-10
+TOF Response/Twitch
+NMB Medication
+Nerve Stimulated
+Image Transmission
+PCA Bolus
+Sitter
+Heart Sounds
+VENOUS SAT
+Neg Insp Force(>-25)
+Additional Gas (lpm)
+Epi Infusion Rate
+Epidural Medication
+Epidural Total Dose
+Sensory Level
+PH
+AV Interval
+Vancomycin/Peak
+Synagis
+Mix Venous CO2(calc)
+Mix Venous PCO2
+Mix Venous PO2
+Mix Venous pH
+Length   Calc   (cm)
+Length in Inches
+Vital Cap (>1.0)L
+Epidural Appearance
+Epidural Location
+Inc Cleansing #3
+BIPAP - BPM
+BIPAP - EPAP
+BIPAP - IPAP
+BIPAP-Mode
+Hep B vaccine
+Head of Bed
+ICP
+CPP
+Insp Time %
+Delta P
+Hertz
+Lacrilube
+High Minute Volume
+Incision/Wound #5
+Incision/Wound #6
+passy muir valve
+Cefotaxime
+MRI
+Response To Stimuli
+Terminal Sensitivity
+heparin flush
+Eye care
+BATH
+Gentamycin/Random
+Auditory Evokes
+Aggitation
+Anxiety
+Auditory Disturbance
+Drowsiness
+Headache
+Insomnia
+Nausea and Vomiting
+Orient/Clouding Sens
+Paroxysmal Sweats
+Seizure
+Slurred Speech
+Sustained Nystamus
+Tactile Disturbances
+Tremor
+Visual Disturbances
+BP Left Leg [Mean]
+BP Right Arm [Mean]
+BP Right Leg [Mean]
+Actigall (Ursodiol)
+Ataxia
+CIWA Sum Total
+TCP02
+Neuro Drain Type
+Neuro Drain Drainage
+Neuro Drain Status
+Oral Sx Quality
+Low Exhaled Vt
+Low Peep
+Venous Base Excess
+Venous CO2
+Venous O2
+Venous TCO2
+SGOT
+SGPT
+Inc Cleansing #5
+Bleeding Time
+Gentamycin/Peak
+fentanyl
+versed
+Renal US
+Intervention
+EEG
+Auto-PEEP Level
+ammonia
+Orthostat HR sitting
+OrthostatHR standing
+BIPAP - O2 lpm
+robinul
+Caffeine bolus
+Calcium Gluconate
+Consent for visitors
+PICC line placement
+Family Mtg. Planned
+shave
+abd binder
+Pericard Drain Site
+Pericard Drain Stat
+ECHO
+Heparin flush
+Multi-Vitamins
+K phos
+Pericardial Drainage
+umbi hernia
+Miconazole powder
+Manual BP Mean(calc)
+Liver
+Albumin  (3.9-4.8)
+Sodium Chloride
+eye exam
+Minute Volume (Set)
+Peak Flow (Calc)
+FIBRINOGEN
+Blood Glucose
+Thrombin (16-21)
+Acyclovir
+Genitalia
+ImpSkin Treatment #3
+Impaired Skin Site#3
+Precedex
+Cont.Nebulizer(Drug)
+driving pressure
+hi MV
+Dialysis Machine
+TPA mg/hr
+Inc Cleansing #4
+Heptavax
+BED ALARM
+fingerstick
+FEM ART MAP
+FEM ART BP
+HI/Minute/Vol
+INV Line#5SiteAppear
+INV#5 WaveformAppear
+potassium Phosphate
+Reglan
+Carnitine
+Ceftazadime
+Wound Care
+Rec. Breath Pressure
+Rec.Breath Time(sec)
+Recruit Breath
+TCPCV Fixed I Time
+TCPCV I:E Ratio
+TCPCV Insp. Pressure
+TCPCV Insp. Time
+TCPCV-MAP
+Bed Rotation
+prune juice
+Zantac
+Abcess/ Location
+high minute volume
+Vitamin D
+INV Line#5 Zero/Cal
+Calcium Glubionate
+Albuterol MiniNeb
+antibiotic ointmt.
+Cholesterol (0-199)
+PICC line attempt
+Sucrose
+Amoxicillan
+Morphine Sulfate
+ABG SODIUM
+ABG Sodium
+Bactroban ointment
+Midazolam
+ImpSkin Character #3
+ImpSkin Wound Base#3
+Spare Trach Present
+decub drsg change
+wrist  restraints
+Pressure Sore Site#3
+PressSoreTreatment#3
+Traction/Immobile #1
+Imp Skin Cleanse #3
+PressSoreWoundBase#3
+Pressure Sore Odor#3
+Imp Skin Cleanse #4
+ImpSkin Character #4
+ImpSkin Treatment #4
+ImpSkin Wound Base#4
+Impaired Skin Site#4
+Tract/Imm Location#1
+Ostomy Care
+High MV
+Inc/Wound Packing #4
+Pacer Wires Ground
+PressSoreCleansing#3
+heliox
+Transcut Pacer Rate
+Transcut Pad Place
+Transcutan Pacer
+Passey Muir valve
+PCV Insp Vt (Obser)
+TCPCV Apnea Settings
+Bed Bath
+PCV Set Insp. Press
+ImpSkin Character #5
+ImpSkin Character #6
+ImpSkin Treatment #5
+ImpSkin Treatment #6
+ImpSkin Wound Base#5
+ImpSkin Wound Base#6
+Impaired Skin Site#5
+Impaired Skin Site#6
+sigh breath
+multipodus
+Imp Skin Cleanse #5
+Imp Skin Cleanse #6
+Sigh Rate
+Mech. Minute Volume
+trache
+mitts
+high min. vol.
+Arterial BP Mean #2
+OFFICERS/HANDCUFFED
+High MV Alarm
+Hi/Minute/Vol/Alarm
+Pulses Paradoxus
+circ site
+high mv
+L foot CSM check
+Cyclosporin
+bbaaath
+trach care
+O2 Tubing Present
+Circumcision Site
+CT #4 Suction Amount
+Chest Tube Site #4
+CT #4 Crepitus
+CT #4 Drainage
+CT #4 Dressing
+apnea
+Minimal Leak Present
+DO2 INDEX
+VO2 INDEX
+BLADDER PRESSURE
+Alarms Activated
+Vitamin A
+Heparin Dose
+DRIVING  PRESSURE
+Driving pressure
+ATC
+Pinps
+Graft/Flap Pulse
+ecmo flow
+Trach care
+T HIGH
+T LOW
+APRV HIGH
+APRV LOW
+INV Line#6 Zero/Cal
+INV Line#6SiteAppear
+INV#6 WaveformAppear
+Nipple Type
+TOF
+R fem Art line
+high ve
+Xigris
+NO ppm
+high NO alarm
+high NO2 alarm
+Low NO alarm
+NO2
+drive pr
+nitric oxide
+AV Fistula
+Tank Pressure (NO)
+Nitric Tank Pressure
+NITRIC TANK PRESSURE
+HIGH MV
+mucomyst mg/kg/hr
+Phigh
+Plow
+Thigh
+fentanyl mcg/hr
+HI/Minute/Vol/Alarm
+Bladder Irrigation
+Abdominal Binder
+NECK GIRTH (cm)
+INV Line#7SiteAppear
+Nitric oxide
+INV Line#8SiteAppear
+INV#8 WaveformAppear
+Flolan ng/kg/min
+Panpropazole mg/hr
+Protonix
+High exhaled min vol
+FLOLAN ng/kg/min
+solumedrol mg/kg/hr
+Molding
+Desitin
+Hearing screen
+Circumcision
+Pain Level (Movemnt)
+ART. SHEATH
+edvi
+Gentamycin/Trough
+Epidural Bolus
+Brush Teeth
+High MV Limit
+Spont. Resp. Rate
+Spont. Tidal Volume
+hi min vent
+circumcision
+low insp pressure
+bladder pressure
+GI#3 Intub Site
+Chromosomes
+Lactation Consult
+Lytes,Bili
+PressSore Depth #3
+Stools
+Sucking
+Tone
+Tremors
+Umbical Cord
+Vomiting
+Excoriated
+Feeding
+Neonatal Opium Solut
+High Ve
+Cry
+DSG SITE
+Sneezing
+ECMO Flow L/min
+Clindamycin
+Inc/Wound Packing #2
+Sleep
+vidaylin
+Nasal Congestion
+Hepatitis B Vaccine
+Pin Care
+High MV alarm
+Inc/Wound Packing #3
+SVO2 SAT
+Lytes
+IV Drip Dose #1
+IV Drip Dose #2
+IV Drip Medication#1
+IV Drip Medication#2
+Bacitracin
+Miconazole
+Vi-Daylin
+zz Equip Functioning
+zzg and Mask Present
+Heb B
+ivp
+rotation
+Bactroban
+CBC and blood cx
+Hep B Vaccine
+Glycerin
+Heparin Flush
+Oxacillin
+BACITRACIN OINTMENT
+high min volume
+RT RAD A LINE
+Bumetandime mg/hr
+Circ site
+podus boots
+hepatic drain
+QTC
+PINPS
+DP
+Inhaled Nitric Oxide
+Combivent MDI
+Midazolam/Versed
+Exercises
+Glycerin Suppository
+Dexamethasone
+Pavulon
+Albuterol MDI
+gent opthalmic
+Lorazepam/Ativan
+Ranitidine/Zantac
+lo MV
+zzzn Management
+Decadron
+Versed mg/kg/hr
+Combivent Puffs
+Atropine drops
+Combivent Puff
+Triple Antibiotic
+zzzgth   Calc   (cm)
+zzzzth in Centimeter
+Mix Venous Sat
+Lithium level
+BED BATH
+Hi MV
+Abdominal Girth
+PASSY-MUIR VALVE
+Pediarix
+Insulin
+abdominal binder
+ORL consult
+Directed Donor
+Chest Dressing
+HI TIDAL VOL
+HI MIN VOL
+L Leg Wound
+pericare
+Abnormalities
+R Leg Wound
+High/Min/Vent
+inexsufflator
+Airleak
+zantac
+lasix
+LOW MIN VOL
+Cardiac Rhythm
+combivent
+Folic Acid
+poly-vi-sol
+Mylicon
+criticaid
+Ranitidine
+Epogen
+mong.spot
+circ
+VAC MACHINE
+BIPAP - Est. Vt
+BABY BATH
+Trivisol
+Flovent
+Hep Flush 10UNITS/CC
+Circumcision site
+flovent
+LYTES AND BILI
+spont tidal volumes
+Tongue midline
+Visual Field CheckL)
+Visual field checkR)
+Caffeine load
+remote alarm
+Vanco level
+CAP GAS
+UVC Tubing Change
+heparin lock flush
+UAC Tubing Change
+lytes and bili
+mycostatin powder
+CARIIPORIDE ML/HR
+Glycerin supp
+nutrition labs
+Heliox tank PSI
+Bed side Observer
+Additional Gas(Mask)
+VS Change W/Seizure
+Phenobarbitol(15-40)
+Nystatin ointment
+nystatin
+CT Scan
+Chloral Hydrate
+O2 Sat W/Seizure
+Abdominal US
+chest pt
+tub
+Upper GI
+GI#3 tube PlaceCheck
+PCV Exh Vt (Obser)
+TRACHEOSTOMY CARE
+PMV ON
+High Mv
+Energy Expenditure
+Resp Quotient - (R)
+VCO2 (180-200)
+VO2 (200-250)
+Hyperoxia test
+Vision - EPAP
+Vision - Mode
+Vision FiO2
+Vision Mask
+miconazole powder
+HI/Minute/Vol/alarm
+disconect alarm
+ZZZly Wake Up
+Vision - IPAP
+Vision Rate
+ETT rotation
+Vd/Vt Ratio (40-60%)
+P-HI
+P-LO
+T-HI
+T-LO
+Bili level
+Hep B
+Captopril
+Bath + Shampoo
+Amoxacillin
+Polyvisol
+MV-HI
+HIGH MINUTE VOLUME
+Hep flush
+aprotinin
+I:E Ratio-Calculated
+NIF
+PMV
+DRIVING PRESSURE
+R FEM ART LINE
+DRIV PRESS
+in-exsufflator
+trivisol
+ACETYLCYSTEINE MG/HR
+Hi/Minute/Vol
+Pinsp
+Peak Flow (actual)
+Hepflush
+TRACH CARE
+Tobramycin/Random
+finger stick
+Tri Vi Sol
+high exhaled min vol
+Prednisone drops
+CPT
+NaCl supp
+cephalexin
+Bath+Shampoo
+Gentamicin ointment
+polyvisol
+bedbath
+Pneumogram
+IV Site #5
+Abd. incision
+Unasyn
+Hydrocortisone
+aquaphor
+Cyclopentolate
+mammary support
+Sigh Tidal Volume
+CPM
+ABG
+dressing change
+protonix
+badbath
+Solumedrol
+RAD. ALINE
+T-Hi
+T-Lo
+Artificial tears
+Slope
+P-Lo
+P Hi
+Tidal Volume
+high min vent
+TED STOCKINGS
+passey-muir
+FDP
+INV Line#7 Zero/Cal
+INV#7 WaveformAppear
+LASIX
+desitin
+nystatin ointment
+Bed rotation.
+Time disconnect
+circumcision site
+BEDBATH
+nystatin powder
+Q1H EEG TRACE
+valproate Level
+bed rotation q2hrs.
+INTRA ABD PRESSURE
+abd girth
+Circ
+Prune Juice
+simethicone
+BINDER
+omeprazole
+thick and easy to bm
+BIpap FIO2
+sitter
+GI consult
+hearing screen
+Swallow Study
+hi min vol
+albumin
+Bed bath
+NIMBEX MG/KG/HR
+APROTININ CC/HR
+NG Feedings
+High MV.
+Hi Ve
+multipodus boots
+Theophylline
+skin
+STUDY DRUG CC/HR
+Disconnect alarm.
+aspirin level
+HIGH MINUTE VENT.
+Keflex
+DSG CHANGE
+Venous Pressure
+fsbs
+XIGRIS
+Vasopressin
+bed alarm
+Left nephro. tube
+calcium gluconate
+hep b
+Bath demo
+HIGH ME
+Hi MV Alarm Set
+TRI VI SOL
+atropine
+Tobradex oint.
+circcare
+high me
+nicardipine 25mg/250
+HIGH MIN. VOL
+CLONIS
+bed exit alarm
+Caffeine Bolus
+URINE CREAT
+URINE NA
+URINE OSMO
+caffeine bolus
+Foley Care
+HIGH TIDAL VOL
+Chest tube DSG
+BATH CARE
+Cyclopentalate
+Seizure pads
+umbical site
+mittens
+DOPA mcg/k/min
+SAFETY OFFICER
+left arm laceration
+NGT Placement
+PeCO2
+Tri-Vi-Sol
+Bed Alarms
+GT care
+HI/MINUTE/VOL/ALARM
+BLOWDRY RT THIGH
+high MV
+TEA BAGS TO R EYE.
+glycerine suppos.
+Neck
+Hep. Flush
+PENICILLIN G
+CIRC CARE
+WAFFLE BOOTS
+driving pr
+Acetominophen
+Caput
+APROTONIN CC/HR
+t discon
+Inc/Wound Packing #5
+TOX SCREEN
+Aquaphor
+High Mv.
+caffeine load
+high MV.
+time disc.
+Urine culture
+BAIR HUGGER
+Merepenum
+PROTONIX MG/HR
+Pantoprazole  mg/hr
+Temp Rectal
+gent oint.
+PRESSURE BAG R.GROIN
+dressing.
+scrotum
+BAth
+cuff leak present
+High min vol
+Glycerine Suppos.
+ORAL AIRWAY
+2nd O2 Sat
+edv
+irrigate pigtail
+r popliteal bupivace
+bupivacaine.1%-axila
+bupivacaine.1%-pop
+r axilla-bupivacaine
+Genetics Consult
+Myconizol Powder
+EF
+Spon Minute VE L/min
+Demerol
+L thigh circumferenc
+Erythromycin oint
+Ion Calcium
+Ca Gluc 20Gm/D5W
+Peak flow
+CISATRA. MCG/KG/MIN
+Nystatin powder
+Cardiology Consult
+vitamin a
+cisatracurium
+IVIG
+methylprednisolone
+teds
+acyclovir
+Suck
+Circ care
+erythromycin
+Hi/minute/vol/alarm
+Nystatin.
+Bed Alarm
+Glycerine
+bath/shampoo
+ISUPREL
+CIRC
+Multi-Podus
+critic-aid
+TRACHE CARE
+Amoxicillin
+bed rotation
+diaper rash
+STOMA BAG CHANGED
+circumcison site
+Motor Deficits
+mucumyst
+picc placement
+Aquaphour
+Xylocaine 2% Jelly
+nystatin S&S
+LVAD Flow LPM
+RVAD Flow LPM
+CISATRAC. MCG/KG/MIN
+multi podus
+flush catheter
+mv
+Chest tube dsg
+Palate
+ostomy bag
+HIGH MINUTE VOL.
+Heliox
+heliox tank pressure
+APROTANIN
+Cephalohematoma
+SITTER
+Disconnect alarm
+hep B vaccine
+Penicillin
+Protonix ml/hr
+Polivisol
+hep B
+DO2 I
+VO2 I
+D02
+ECMO FLOW
+Inc Cleansing #6
+side rails padded
+Shave
+bathed
+fleets enema
+Acapella (PEP)
+Umbilical hernia
+Nystatin
+cist mcg/kg/min.
+Peak flow Pred
+APOTININ CC/HR
+Orapred
+L ankle dsg change
+Multi podis boots
+Poly-vi-sol
+CPR
+L LEG WAFFLE BOOT
+sponge bath
+Chest Appearance
+sweating
+Left neprhrostomy
+Dexamethasone drops
+Diaper rash
+Cardiac consult
+aldactone
+SHAVE
+Genetics consult
+Mineral Oil
+FOLEY CLAMPED
+SpO2-L
+Mucomyst       mg/hr
+Hearing Screen
+Bilirubin
+ICP LEFT
+Lumbar drain level
+Lumbar drain output
+Lumbar open/clamped
+P-high
+P-low
+T-high
+Solu-Medrol Mg/Kg/Hr
+EEG run
+vasopressin
+Arterial Pressure
+Fluconazole
+Neonatal Bili & Lyts
+Murmur Description
+glycerin
+Glycerin suppository
+Neut
+HCO3
+low me
+meds
+NGT NS FLUSH Q/4HR
+BEDBATH/SHAVED
+edi
+PASSY MUIR VALVE
+Oral drng
+CIWA Scale
+mucocous fstula
+Cefazolin
+passey muir valve
+SLOPE
+P HI
+P LO
+LUA AV fistula
+T HI
+T LO
+incentive spirometry
+Lt hernia repair
+HI/Minute/Vol/
+Acetylcysteine
+urine PH
+Bacitracin oint.
+URINE CL.
+URINE OSM
+URINE POTASSIUM
+Racemic Epi MiniNeb
+URINE SODIUM
+RETIC Count(0.5-1.5)
+Retic count (.0-1.5)
+Mottles
+Trip Antibiotic Oint
+Tobramycin/Trough
+ICP  Right
+p hi
+p lo
+t hi
+t lo
+Nystatin oint
+180 degree turn
+INV Line#8 Zero/Cal
+LUMBAR DRAIN
+Fem Art BP
+high min vol
+lytes
+Keflex pg/po
+glycerine supp
+freeform alarm
+CARIPORIDE CC/HR
+Bili
+Bacitracin nose oint
+vit a
+domeboro soaks
+Lab results
+Dexamethasone nasal
+zzzzuent Press mmHg
+Rotation On
+Xygris
+R fem art line
+Maintainence IVF
+Eye Abnormalities
+left vent drain
+TRACH MARK
+P low
+t high
+t low
+aprv phigh
+Thigh Tourniquet
+high min. vol
+Nystatin Powder
+Circ. Site
+heprin lock
+plow
+T high
+T low
+pinsp
+Altepase mg/hr
+CPAP
+BUMEX MG/HR
+PL
+TH
+TL
+Drive Pres
+I:E Ratio-TCPCV
+shampoo
+Bath:
+Glycerin supp.
+pad change
+high Ve
+circumsision site
+ALCOHOL GTT ML/HR
+L.ARM ELEVATION
+cyclosporin
+pediarix
+lepirudin
+neuro consult
+ABD Binder
+Prilosec
+Nystatin Cream
+Nystatin solution
+PKU
+HIGH MIN VENT
+Tract/Imm Location#2
+Traction/Immobile #2
+SOLUMEDROL MG/KG/HR
+LYTES
+surgical bra
+hyperoxia
+Peak flow post tx.
+Peak Flow (Pred)
+Peak exp flow rate
+Bladder pressure
+spont Vt's
+High Min Vol
+Hi Tidal Vol
+amoxicillin
+CIWA SCALE
+sling
+hepatitis B vaccine
+Triple Abx Ointment
+Omeprazole
+autorotation
+LIVER FLAPPING
+driving press
+Erythro eye oint
+epicardial pacemaker
+range of motion
+Trach care.
+mulitpodus
+EMLA
+CLOT IN BLOOD BANK
+right arm
+sucrose pacifier
+rifampin
+Phenylepherine
+Prednisilone gtts
+CXT site
+lumbar pressure
+VALPROA 50-100 UG/ML
+Indomethacin
+Erythromycin
+Vidalyn
+MULTIPODUS BOOTS
+BLADDER PRES.mm/Hg
+VT
+bath demo
+ATC ON
+Rotation
+Pantoprazole
+circumcision care
+Aldactone
+DEMEROL
+ceftaxime
+Cardiologist visit
+Hepatitis B vaccine
+Spironolactone
+Feeding Team Eval
+Clonus
+tooth buds
+vit d
+cyclopentolate 1%
+metoclopramide
+ranitidine
+hep b vaccine
+Tract/Imm Location#3
+Traction/Immobile #3
+Ceftazidime
+mlti podus boots
+Bed rotation
+intermit pacer beats
+Xigres mg/hr
+high/min/vent
+RSBI
+O2 Delivery Mode
+circ care
+glycerin suppository
+PA sat
+PAsat
+OP site
+Ileostomy care
+P high
+Prune juice
+02 Tubing Present
+neosynepherin
+criticaid ointment
+Triple antibx oint.
+Vit A
+SILVADENE FEET BID
+Fever
+Vidalgn
+Yawning
+HIGH EXHALE MV
+Cannula Size
+Zygris
+cvp
+PRECEDEX MG/K/HR
+hi Ve
+Pediatrix
+TriViSol
+Waffle boots
+Goldline Baby Vits
+trache care
+Driving Pressure
+APRV
+high minute vol
+Mucomyst mcg/kg/min
+Multipodus boots
+Narcan
+Poly-Vi-Sol
+Xigris mcg/kg/hr
+nystatin cream
+HIGH Resp Rate
+cisatra mcg/kg/min
+epidural ml/hr
+RIGHT FEMORAL A-LINE
+AV THRILL
+L RADIAL AV FISTULA
+no
+no2
+suicide precautions
+bedside observer
+mask
+HIGH EXHALED MIN VOL
+INCENTIVE SPIROMETRY
+PICC line site
+glycerin supp
+Glycerin Supp
+High Exhaled Min vol
+trach button
+Lepirudin
+cyclosporine
+Cyclosporine mg/hr
+HI/Minute/vol
+Tobradex
+.45%ns
+Police Gaurd
+hernia repair site
+RIGHT FEM. ALINE
+FEM MAP
+Calciferol
+Passey Muir Valve
+Multi podis Boots
+waffle boots
+RADIAL ABP
+RADIAL MAP
+glycerine
+HIGH/MIN/VENT
+CAFFEINE BOLUS
+Chest tube
+Phenytoin  (10-20)
+T deconnect
+cisatricurium
+hairwashed
+HI MINUTE VOLUME
+Umbi
+gentamycin ointment
+High Tidal Volume
+uric acid
+IS
+Ilex
+MAMMARY SUPPORT
+Nystatin Ointment
+EDV
+10% alcohol/ cc/hr
+humalog insulin pump
+NYSTATIN
+R groin sheath
+Oral Abnormalities
+HI/MINUTE/VOL
+Lidocaine
+Circ. site
+Fosphenytoin
+pulse
+Neuro consult
+Meperidine mg/hr
+APROTININ ML/HR
+stoma
+fluconazole
+Amphotericin
+SHAMPOO
+Seizure Pads
+Ostomy Bag Change
+insulin
+Umbi Hernia
+HiMV
+Multipodus Boots
+Multivitamin
+EDM CI
+EDM CO
+cuff pressure
+High Exhaled min vol
+chloral hydrate
+bili level
+high volume
+percussion
+multipodus splints
+hob angle
+rotation on/off
+INCENTIVE SPIROMETER
+rectal tube deflate
+pr interval
+COCCYX GEL/ALLEVYN
+L HEEL W-D
+Nasal irrigant
+nephrostomy
+teeth brushed
+Bivona secured at 8
+Valproic acid
+Umb Hernia
+HIGH VE
+P lo
+xigris mg/hr
+SPUTUM INDUCTION
+T hi
+T lo
+trach collar trial
+binder
+RIGHT LEG DRSG
+STERNAL DRSG
+gt drsg
+PASSEY MUIR VALVE
+LEG VAC DRSGS
+mitrazol powder
+Trip antibiotic oint
+leg dsg w-d packing
+Vit A injection
+P2
+bronched
+gentics consult
+Chromosomal analysis
+P High
+P Low
+T High
+T Low
+CPR instruction
+inital bath
+left arm sling
+L ARM ELEVATION
+act
+high minute vol.
+CUFF PRESSURE
+GT Care
+PIC
+scrotal ultrasound
+gentmycin eye oint
+Primo study cc/hr
+sputum culture
+NS bolus
+CISATRACUR.MCG/KG/MI
+PAVULON MCG/KG/MIN
+rigors
+alcohol bath
+sandbag->chest
+femoral line left
+rt groin sheath
+ABDO BINDER
+rad a line
+ART
+ART MAP
+ulnar pulse right
+flolan
+APROTININ.
+coccyx drsg change
+TDISCONNECT
+APRV Pressure High
+APRV Pressure Low
+APRV Time High
+APRV Time low
+ATC on
+High exhale MV
+High Minute Vent.
+Miconazole Pdr.
+Heels Elevated
+hearing
+Digoxin  (1-2ng/ml)
+Baptism
+HIGH MIN. VOL.
+APNEA TIME
+ASTERIXIS
+EKG
+NT suction
+DaPT
+Critic-Aid Skin Pst
+ART R Groin
+dexamethasone drops
+Coag bld wk
+Aquafor
+shaved
+phenylephrine drops
+PLT transfusion
+PMV on/off
+IntraABd pressure
+APROTANIN ML/HR
+CIRC SITE
+vitamin A
+Fungal Blood cx
+Pediatrix Combi
+protonix mg/hr
+phenylephrine gtts
+Neo 120mg/250ml
+pitressin u/hr
+Ca++ Gluconate
+Xgris
+PR
+isoproterenol
+SVO2
+Protonix gtt
+pmv
+TPA - left   mg/hr
+TPA -right mg/hr
+complete bath
+periph edema
+Cardiology consult
+drive p
+caf load
+hair washed
+thoracentesis
+FEM LINE
+Bruit/Thrill
+MARCAINE .25/4CC SC
+vacuum
+Bactoban
+PANTOPRAZOLE
+Vt
+PEG DSG/CARE QD
+type and coombs
+CEFOTAXIME
+Miconazole Powder
+high min.
+PAPAVERINE MG/HR
+papaperine
+High min volume
+peri pad
+Sclera
+Scleral jaundice
+initial bath
+Tobramycin/Peak
+Chest tube site
+bili
+TOF TWICH MONITOR
+PERCUSSION VIA BED
+nicardipine gtt
+hernia repair
+seizure pads
+HOME VENT
+T Disconnect
+Chest PT
+Train of Four
+P-Hi
+Abdominal Hernia
+Bed Rotation Left
+Bed Rotation Right
+Back Dsg
+gluteral drsg change
+high/min /vent
+Ptp exp
+valproic acid
+Adenosine
+esoph balloon
+wound drsg changes
+high min.vol
+Baptize
+PROTONIX DRIP
+narcan
+Vapotherm
+Triple anti oint
+jobst bra
+Nacl supp
+high  minute vol
+Umbilical Hernia
+apnea time
+T-disconnect
+trach
+RUPPER ARM FISTULA
+High minute volume
+picc
+L FEM ALINE
+Abdominal ultrasound
+Peri Care
+VAsopressin 0.04   s
+Lumbar drain
+drsg change
+Passy-Muir valve
+heparin
+MV HI
+CHEST DRSG W->D
+RAD ART S/D
+Clot to Blood Bank
+3% NS
+cath site
+Criticaid cream
+Mineral oil/ skin
+CUFF PRESS.
+bair hugger
+TPA #2 mg/hr
+TPA#1 mg/hr
+incentive spirometer
+QUAD cough
+FENOLDOPAM MCG/KG/MN
+Bivona mark
+MULTIPODUS SPLINT
+Breast Pump
+gent eye ointment
+FETAL HR BY L&D RN
+aterial line
+HAIR WASHED
+umbilical hernia
+Trache Care
+BNP
+Foley
+MIXED VENOUS SAT
+HI TIDAL VOLUME
+PCV Driving Pressure
+Multi-podis boots
+Migh Min Volume
+High Tidal Vol
+PINSP
+Neonatal Morphine
+Synthroid
+Pantoprazole mg/hr
+HI VE
+Nystatin oral
+Flovent Puffs
+Nystatin oral suspen
+Volume/SIMV with PSV
+Miconozole powder
+synthroid
+pressure support
+Combivent
+hernia
+NARCAN MG/HR
+Add Gas Flow (Vent)
+Additional Gas(Vent)
+NO Tank Pressure
+LUE AV fistula
+NEBS
+HIGH MIN VOL
+Bathed
+FiO2
+oxacillin
+FEM ABP
+Rebound bili
+L stump dsg changed
+Peakflow
+LYTES, BILI
+Scrotum
+elemental calcium
+gentamycin opthalmic
+pic line placement
+Heparin Lock Flush
+CIRCUMCISION SITE
+hi mv
+NICARDIPINE 5-15MG/H
+xigris
+T-Low
+p-high
+t-high
+Nitric [PSIG]
+APROTONIN
+SOLUMEDROL DRIP.
+bruit
+Passy-Muir Valve
+mupricin
+Cont EEG
+passey muir
+LOW MV
+high peep
+Pinsp.
+low peep
+FICK CO
+F-Ideal Body Wgt Kg
+Height Inches
+M-Ideal Body Wgt Kg
+prune juice po/pg
+Bacitracin ointment
+Miconazole Pdr
+Augmentin
+Ostomy dsg change
+IABP BP
+CA GLUC GM/HR
+CHEST TUBE #5
+CT #5 CREPITUS.
+CT #5 DRAINAGE.
+CT #5 DRESSING.
+CT #5 FLUCTUATE/LEAK
+CT #5 SUCTION AMOUNT
+cool bath
+SIGH BREATH
+Simethicone
+Rash
+p high
+p low
+slop
+Bath and Shampoo
+CVL
+Nystatin Oint
+Prednisolone gtts
+DOPPLER FLAP CHECK
+FLAP BRISK CAP REFIL
+FLAP WARM GOOD COLOR
+R) LE
+UA/UVC placement
+RSSI #units
+caffeine citrate
+IPPB
+L AV fistula Bruit
+glycerin supp.
+tylenol
+right nephrost irrig
+HEPA FILTER
+Grasp
+HEPARIN FLUSH
+R leg(cast)cap refil
+CHECK L ARM BRUIT
+Nystatin susp
+Prednisolone drops
+L leg perfusion
+triple antibiotic
+Meropenem
+Polyvisol po
+Peak Flow % (pred)
+ROTATION
+Cuff pres.
+PC driving press
+Gastric Secretions
+gt site
+APPROTININ CC/HR
+cpp
+mucous fistula
+ICE PACKS OU
+CLOT IN BLOODBANK
+multipodus boot
+tidal volumes
+MV Hi
+ACE WRAP B LEGS
+High Pressure Limit
+position rotated 180
+SPONT TV'S
+nicardipine
+vanco peak
+TRF   200-400
+calTIBC  264-432
+lactated ringers
+Pediarix vaccine
+chesttube site
+incision
+CA GLUCONATE
+PGTAILS/FLUSH/10MLNS
+thigh measurement
+Right pedal pulse
+Femoral site
+Right leg straight
+BATHED
+zosyn
+aprotinin cc/hr
+IRON  45-160
+moves legs well
+Nose Wound
+vit A
+TBILI
+Hep B vac
+Edema
+ted stocking
+nimbex mcg/kg/m
+cefazolin
+Methylprednisolone
+G tube dsg
+Post Ductal Sat
+Pre ductal Sat
+PRED FORTE DROPS
+NaCl Supps
+KCl Supps
+Hernia Repair
+PROTONIX
+spironolactone
+bladder pse.
+ceftazidime
+urine cath
+Triple Antbx Oint
+bacitracin
+Cap gas
+ideal body weight
+FENOLDOPAM
+RANITIDINE
+Heplock flush
+ceftazadime
+flap doppler
+Broviac Dsg
+ABD BINDER
+high min vol.
+metronizadole
+AMMONIA
+sacral ultrasound
+CVL Dressing Change
+Nicardipine mcg/k/mn
+CCO
+hernia repair sites
+lacrilube
+Pressure Transducer
+Driving P
+pneumo boots
+Calcium gluconate
+HI/Minute/vol/alarm
+meropenem
+folate
+NEONATAL MORPHINE
+Bed alarms on
+trach aspirate
+urine culture
+monilial rash
+Trache
+CARIPORIDE ML/HR
+Tank press
+pad count
+Inc/Wound Packing #6
+air mattress
+D5 1/2ns w/20meq kcl
+ilex
+neo mcq/kg/min
+Mineral oil
+Hydrocele
+LEFT AV FISTULA
+O2 sat probe site
+Cough/Deep Breath
+Incentive spirometry
+nystatin oint.
+cpr class
+BLOOD CULTURES
+Nicardipine (mg/h)
+AV FISTULA BRUIT
+Tank 1
+Tank 2
+Pericare
+L AV fistula
+index
+tank-A
+Tank-b
+corlopam mcgs/kg/min
+J tube port
+linen change
+multi podus boots
+acetomenophen
+rocuronium
+APRV T-HI
+MMV tidal volume
+APRV P-HI
+APRV P-LOW
+APRV T-LOW
+V02I
+MMV rate
+critcaid ointment
+dexamethasone gtts
+atc
+Cyclopentolate 1%
+3X ABX ointment
+mucous fistula stoma
+spont Ve
+Bivalirudin
+Epinephrin
+Calcium Chloride
+HI(GH MV
+Protonix       mg/hr
+shampoo hair
+Acetylcysreine
+Acetylcysteine mg/hr
+HeliOx press
+FEM, ABP
+Rhythm
+FEMORAL A-LINE
+ABDOMINAL BINDER
+IPV
+INO
+Caffeine Citrate
+head
+Plateau Time (7200)
+Multi-Podis boots
+Cpap
+cisatric mcg/kg/min
+BariAir Auto Turn
+set min. vent
+saline flush
+AV fistula bruit
+AV Fistula Thrill
+wrist restraints
+lt av fistula
+APNEA
+leg retraints
+Bath Care
+A GAP
+Shaved
+peripad change
+VIDALYN
+L. ARM SLING
+Qtc
+r leg elevated
+low press
+Insp time
+MP boots
+Hep flush 10units/cc
+urine ph
+Apnea
+APNEA sec
+Post-Ductal SaO2
+L arm elevated
+iced gauze to eyes
+Spont Resp rate
+Spont Minute vols
+CHOLEY TUBE
+CHOLEY TUBE DRAINAGE
+trembling
+CPM MACHINE
+high rr
+Subgaliel tap
+PHIGH
+P LOW
+VP shunt placement
+CT scan
+GI #2 guiac
+Bair hugger
+Circ Site
+pictures taken
+HIGH MIN. VENTIL.
+TANK A
+TANK B
+Bath.
+WASH ABD--HIBICLENS
+CCI
+C.C.O
+CSM R LE
+MICONAZOLE POWDER
+abdominal girth
+Peg DSG
+Solu-medrol mg/hr
+t-low
+hepa filter
+Dopamine
+Solumedrol cc/h
+fingerstick glucose
+Act CPP
+Tranpul. Insp Hold
+Transpul. End Exhal.
+HFO Hz:
+Bias Flow
+HFO Amplitude deta P
+HFO FIO2:
+HFO max pres. alarm
+HFO mean airway Pres
+HFO min. pres. alarm
+NEB
+perit/bladder pressu
+left icp
+NGT lavage
+RT FEM A-LINE
+check for pulsus q4h
+EYE EXAM
+umbi site
+Dextran
+grunting
+op. site
+Gentamycin oint
+L ulnar ABP
+ITRATHECAL
+SOLUMEDEROL
+10%alcohl
+FEM ALINE
+wound care
+Fem sheath
+Fem sheath MAP
+blood cultures
+DRIVING PRESS
+pantoprazole
+cisatracurium mg/kg
+Auto-PEEP level
+Bed Rotation.
+flow rate
+High Minute Ventilan
+CYCLOSPORIN --MG/HR
+t-tube
+cyclosporin 3mg/hr
+Rotation On/Off
+tPA            mg/hr
+warm pack to LUE
+LLE Cast care
+ALCOHOL 10%DRIP G/HR
+ALCOHOL 5% DRIP G/HR
+PENTOBARBITAL MG/HR
+SJO2
+Splint
+Toes
+non nutritive suck
+Atropine Opthamic
+Actigall
+bacitracin oint
+ADEK vitamins
+Tobradex opthalmic
+Arterial BP(Rad)
+R FEM MAP
+Alcohol Gm/hour
+Driv pressure
+high exhale mv
+HIGH MINUTE VOLUMER
+GROIN BP
+CARIPORIDE
+Lower leg splint
+HEP FLUSH
+Water bed
+NS eye drops
+T. Protein (5-7.5)
+k phosphate
+CHEST PT
+Bronch
+vest
+PICC
+Hi Minute Volume
+Coccyx w->d drsg chg
+LLcalf w->d drsg chg
+autosigh
+Continuous Neb
+SOLUMEDROL  MG/KG/HR
+CIWA scale
+CALCIUM GLUCONATE
+multipodous boots
+OR pillow
+Dressing change
+Ketamine
+1:1 sitter
+VEN0US O2 SAT
+RLEcomp.pressure
+PAUSE TIME L/R
+Low MV
+Domeboro soak
+nasal irrigation TID
+ligation incision
+Gentamycin gtts OU
+3,4,5 finger doppler
+arm 90 degrees
+ABDOMINAL GIRTH
+atropine drops
+tobradex oint
+aqua tears
+Hernia
+Glycerine Supp.
+cortisol
+L fem art bp
+MIVED VENOUS O2 SAT
+INTRATHECAL
+svo2
+High exhaled MV
+fer-gen-sol
+T deconn
+FINGERSTICK GLUCOSE.
+Low pressure Alarm
+RIGHT HEEL DRESSING
+PASSE-MUIR VALVE
+sacra decub dressing
+lepirudin  mg/hr
+vapotherm fio2
+Coccyx WTD Dressing
+I time set
+Femoral Compartment
+ViDaylin
+PRECEDEX MCG/KG/HR
+WAffle Boots
+left nephrostomy
+TRACH care
+INAMRINONE MCG/KG/MN
+High Minute Volume m
+rt. hernia
+MEROPENEM
+trach mark location
+trach postion/stoma
+MAP
+Tobramycin
+PDA incision site
+Na supp
+Umbi hernia
+Protonix mg/hr
+cast /splint r leg
+PDA surg site
+omerprazole
+CT site
+Ursodeoxycholic Acid
+fundus
+desetin
+HI MINUTE VOL
+Low exhaled min vol
+Hi Min Vol
+Diazoxide
+SOLUMEDROL
+GT site
+Combivent puffs
+abduction pillow
+cefotoxime
+pej site
+VENT ICP
+VENT CPP
+CEREBRAL LACTATE
+JPO2
+SJ PH
+PR interval
+Tri-Visol
+femoral pulses
+thigh
+tlow
+PHigh
+Tri-vi-sol
+Vent CPP
+Glucagon mg/hr
+nipple shield used
+Glucagon
+Time Disconnect
+Urine source #2
+Integrellin cc/hr
+sodium bicarbonate
+LYTES,BILI
+ns bolus
+tri-vi-sol
+metabolic labs
+Triple Antibx
+foley irrigated.
+incentive spiromety
+Hep B vaccination
+OGT Placement
+cco
+ci
+svr
+Sweating
+Circ Care
+sling L arm - pacer
+Prednisolone
+VItamin A inj.
+NAS Score
+Surgery
+solumedrol
+RLE drsg change
+bladder pressures
+Solumedrol mg/kg/hr
+THORACIC EXTENSION
+urine pH
+Hand perfusion
+Nystatin cream
+multi podis boots
+lymphedema sleeve
+disconnect alarm
+Bladder cath
+CIS/CURIUM MG/KG/HR
+TEDS
+TPA MG/HR
+Right Arm Cellulitis
+Xeroform Dsg
+CISATRACUR MCG/KG/MN
+STRENAL WOUND
+FOOT WOUND
+LUE fistula
+Triple Antibx Oint
+I/S
+Surgical site
+High Min. Vol.
+multi-podis boot
+2ND RA ALINE
+labs drawn
+cardiac index      o
+VENOUS O2 SAT
+Potassium phosphate
+10% ALCOHOL CC/HR
+Stoma
+precedex
+HIGH EXHALED MIN.VOL
+Flolan
+ALDACTONE
+Atrovent MDI
+Hi VE
+Vanceril MDI
+P insp.
+Lumbar Drain
+eye movements
+Gentamycin Eye Oint.
+Gent Eye
+AMBUED Q4 AND PRN
+VASOPRESSIN UNIT/MIN
+Peri care
+NICARDIPINE MCQ/KG/'
+Lips
+Root Reflex
+Bath & shampoo
+HighMV Alarm
+High Minute Ventil.
+osomolarity
+bactroban
+T3   (NML 80-200)
+T4  (NML 4.6- 12.0)
+TSH  (NML 0.27-4.2)
+Aprotinen
+posey
+factor ten
+caffeine Bolus
+nitric oxide ppm
+poly vi sol
+sodium bicarb
+podis boots
+Myoclonic Jerks
+Glycerin Supp.
+Nitric Cylinder[PSI]
+%cool mist
+trch size
+Miconazole pwdr
+sp tidal volumes
+APROTININE
+chest PT
+Heparin Flush 10U/cc
+High/MIN/VENT
+deflate rectal foley
+passe muir valve
+OOB TO CHAIR
+FINGERSTICK
+wrist slpints
+Bacitracin oint
+lepirudin mg/kg/hr
+mixed venous
+vasopressin u/hr
+solumedrol mg/hr
+DESITIN
+L girth size
+Bili & Lytes
+r hips drsg change
+Pantoprazole   mg/hr
+dextrose
+#1 chest tube irrig.
+CT DRSG
+pantoprazole80/250
+FLOLAN
+Abd Cmprtmnt Pressur
+fistula
+HIGH MINUTE VOL
+Compliance-Corrected
+Aprotinin ml/hr
+RAP
+INTRATHECAL PRESSURE
+HumR #Units
+mvo2
+breast binder
+broviac dsg
+chest dressing
+High MV alarm.
+Discon
+EPOGEN
+Bacitracin topical
+CAFFEINE LOAD
+Folate
+AV fistula T/B
+Bupivacaine
+Pantoprozole
+PMV.
+APROTININ
+other
+mucomyst
+ph level
+ileostomy
+Driving Pressure:
+popliteal pulse r/l
+Rotation L/R
+Sclerea edema
+High PIP
+High RR
+Low Pressure
+enema
+security
+Tract/Imm Location#4
+Traction/Immobile #4
+PASSY MUIR/CUFF DOWN
+CK/VAGINAL BLEEDING
+Desitin prn
+mouth flap color
+mouth flap pulse
+Critic-aid
+Pericardial Pressure
+Urinalysis sent
+Incentive spir
+PASat
+Psa02
+Triple abx.
+Hernias
+hydrocortisone
+Sodium supps
+granuloma
+LFT's
+permanent pacer
+r arm fistula
+yi MV
+triple abx oint.
+bleedig at meatus
+Poly Vi Sol
+Calcium glubionate
+Myconizole powder
+Potassium Phosphate
+pm valve
+Seizure Precautions
+Rt ICP
+DEXTRAN 40  10%
+ELEVATE R ARM
+ELEVATE R LEG 2 PIL
+PILLOW AROUND R ARM
+mulitpodis boots
+seizure activity
+DEXTRAN 40%
+High Minute Vo;ume
+left breast doppler
+right breast doppler
+high pip
+dilaudid
+Cord Drg.
+hi minute volume
+Zidovudine/AZT
+T  high
+high exhale MV
+trusopt
+APRV P HIGH
+APRV P LOW
+APRV T HIGH
+APRV T LOW
+Femoral Sheath Aline
+sheath MAP
+L rad art BP
+Hi/minute/vols alarm
+PAW
+High min. vent
+tpa
+R arm sensation
+acytylcisteine
+laceration
+Myconazole Pdr.
+IRRIGATE PIGTAIL
+open crib
+FIO2 SET
+multivitamins
+aprotinin ml/hr
+Heparin flush 10u/cc
+study drug
+Pulse
+Nailbed circulation
+BRACHIAL S/D
+nicardipine mg/hr
+Sitter at bedside.
+PEG SITE DRESSING
+FEM ART MEAN
+FEM ART S/D
+TOTAL BATH
+N.O.
+Abdominal U/S
+Pred Forte
+mitoclopramide
+COSOPT DROPS
+PREDFORTE DROPS
+LEPIRUDIN MG/HR
+Metoclopramide
+Startle Reflex
+ZANTAC
+Atropine eye oint
+Emycin ointment
+LEPIRUDIN
+combivent puffs
+MVO2 SAT
+Mylanta
+IV Zantac
+aprotamine
+PRILOSEC
+PRBCs
+prone/supine
+Bicarb
+calcium glubionate
+QUINIDINE
+potassium phosphate
+suprapubic cath
+bivona trach measure
+Cisatracurium
+Oxygen #3
+Hep B immunization
+R BREAST TEMP/COLOR
+hi min vent.
+apnea time interval
+Low minute volume
+low insp press
+L ICP
+R ICP
+VAP mouth
+Solumedrol  mg/kg/hr
+Percussion per bed
+actigal
+Broviac site
+Ursodiol
+TRIVISOL
+CBG
+triple antibx
+Heparin lock Flush
+Cyclosporine   mg/hr
+HumR SSI
+NPH units
+abdomenal incision
+DOPAMINE MICS/KG/MIN
+color of toes
+pronator drift
+Auqafor
+urine osmolarity
+urine na
+180 DEGREE TURN
+24hr Caregiver
+R VAC/L VAC
+Heliox PSI
+arterial mean #2
+autopeep
+pressure high
+time high
+time low
+pressure low
+KETAMINE 200mgm/50ML
+Ketamine 100mg/50ml
+L nare
+PEEP Sigh level
+BLADDER PRESSURE.
+FLOW
+Neonatal opium sol.
+surgical incision
+NAS
+R chest dsg
+Arterial BP #3
+Arterial Mean #3
+triple antibio. oint
+miconozole powder
+L chest incision
+rotation on
+R LEG ELEVATED
+HIGH MV ALARM
+thumb pulse checks
+zantc
+icp
+SSE
+Right inguinal herni
+AutoRotation
+Bilat Ing Hernias  s
+Bicitra
+vac canister change
+Bilateral hernia dsg
+wound gel to coccyx
+egg crate
+LEECH THERAPY
+TLSO
+Thrill
+ionized calcium
+FEM ART
+HeOx PSI
+Isuprel 1mcg/min
+tpn
+cord care
+Nystatin Oint.
+Prednsolone gtt
+Phenylephrine gtt
+pad changed torso
+(R) nephrostomy
+Hi Min Vent
+peritoneal amylase
+aerosol mask
+1. Nausea and Vomit.
+2.Tremor
+3.Paroxysmal Sweats
+4. Anxiety
+5. Auditory Disturb.
+6. Agitation
+7. Tactile Disturb.
+8. Visual Disturb.
+9. H/A Head fullness
+Total CIWA
+umb hernia
+artificial tears
+PROTONIX MG/HOUR
+High Min. Vol
+NaCl
+gentamycin eye ointt
+head circ.
+lacrilube ointment
+Diamox
+VASOPRESSIN
+phigh
+J-tube
+art mean
+x-ray
+lab results
+orogastric sxn
+Mammary Binder On
+High MMV
+demerol
+Gentamycin
+RASH
+DIAZOXIDE
+SaO2 (post)
+PRBCS
+LeadII cardiac strip
+Critacaid
+abd lateral
+ICS
+right hydrocele
+High VE
+Heated Humid
+Physical therapy
+gentamycin
+Glycerine supp
+Abduction Wedge
+aprotinine
+Spont VT
+Low insp pressure
+Antibiotic ointment
+aprotanin
+BEAR HUGGER
+Ostomy bag
+RAD ART BP
+prednisolone nosedrp
+KCL
+Phenylephrine nose s
+QVar
+diuril
+flowvent MDI
+Incision sites
+35 QVar
+Gent
+COUGH/DEEP BREATHE
+aprotanine
+VISUAL FIELDS
+TPA
+TPA mg/HR
+Amiodarone mg/hr
+bed alarms
+R GROIN A LINE
+Left Lateral decub
+FEM LINE MAP
+glycerin sliver
+Driving P.
+fenoldopam mcg/k/min
+map
+PS
+passy muir
+rad. aline
+vasopressin unit/min
+MVO2
+low pressure
+MV
+HI press
+LO Press
+time High
+time Lo
+ca gluc ml/hr
+FEMORAL ABP S/D
+FEMORAL ABP MEAN
+24hr Lytes&Bili
+lochia
+Levothyroxin (T4)
+Octreotide
+Cisatra.  MG/KG/HR
+R arm sling
+CISATRA MCG/KG/MIN
+RLE Aspiration Site
+LLE drsg change
+Recruitment pressure
+insp time
+XIGRIS CC/HR
+XIGRIS MG/HR
+waffle boot
+THigh
+Calcium  gluconate
+Magnesium Sulfate
+IV Lasix
+Mag sulfate
+Full Skeletal X-Ray
+Spinal Scan
+HIGH MV LIMIT
+Abd drsg change
+Right heel drsg chae
+NO tank
+nitric
+facial droop
+tongue midline
+study drug/24mcg/k/h
+FLAP TEMP/COLOR
+bun
+Circumsion
+PORK INSULIN U/HR
+continuous C.O
+urine for AA
+urine for CMV
+Tacrolimus
+MINERVA BRACE
+hi flow O2
+Flowrate
+expir pressure
+insp pressure      e
+flank drsg change
+nephr. tubes irrig.
+Gel Pillow:
+Broviac site/dsg
+NONNUTRITIVE SUCKING
+epinephrine mcg/min
+D5W
+multi podis boot
+INS time
+PA PRESSURE
+bicarb drip 200/200
+cpap level
+disconnect
+d5w 10gm ca+ glucon
+calciferol
+High exhaled min.vol
+Triple Abx oint
+Hydralazine
+CUFF P.
+Nicardipine HCl
+Nicardipine mg/hr
+LEG DSD CHANGE
+hand mitts
+HIGH MIN. VENT.
+RUE-sling/swath
+glucagon
+aclyclovir
+Micro-Neb tx
+pericard drain irr.
+Dexmedetomine HCl
+vidalyn
+hi minute vol
+INO Tank Press
+tobradex
+atropine eye drops
+AUTO-ROTATION
+Heliox PSI pressure
+Ptp Exp.
+Ptp Insp.
+PDA ligation site
+Fentanyl:
+AV FISTULA
+AZT
+Neurology consult
+MINUTE VOL. HIGH
+Tobradex ointment
+P HIGH
+position
+intrathecal cath
+PRBC
+BILAT HEARING AIDS
+Decadron nose drops
+AF fistula T/B
+dexamethasone eye ds
+ECMO flow
+DSD
+High Tidal volume
+KCL supps
+trach collar
+ICP Camino
+Home Bipap Unit
+trach tube mark
+multipodis boots
+HICCUPS
+lytes,bili
+zzzpH
+High min. vol
+Mucomyst mg/hr
+O2 sat probe change
+IV infiltrate
+R hand infiltrate
+high min. vent.
+R ankle
+PEG site
+SSRI #units
+Epidural
+Pediarix Vaccination
+ORL Exam
+Isoproterenol
+pnuemogram
+Camino CPP
+NITRIC OXIDE
+Diplopia
+pr
+apnea test
+Precedex (mcg/kg/hr)
+Hep B ImmuneGlobulin
+PCV Level
+MVI
+catherization
+methylene blue test
+circ. site
+rectal tube
+triple abx oint
+epoetin alfa
+protonix 80mg/250cc
+Trache care
+R SHEATH
+NS w/20kcl
+PROTONIX MG/H
+mammo support
+NICARDIPINE--MG/HR
+post ductal sat
+Pre duct sat
+High mv
+RT FEMORAL ART BP
+caffeine
+HI MV ALARM
+right leg drsg
+natrecor mcg/kg/min
+dPaw
+dPes
+esoph press
+Sz Pads
+peak flow post rx
+mixed venous 02
+Na supps
+Bivaliruden
+bupivacaine
+Nephrostomy tube
+AMONIA
+leech therapy
+PIC line placed
+foley change
+FiO2/O2 Delivered
+T.disconnect
+Xigris  mg/hour
+Haptoglobin
+shaved/bedbath
+Autopeep
+potassium phosphorus
+Triple Abx ointment
+Atropine opth. oint
+Fentanyl bolus
+PROM
+smile
+tongue
+thigh circ
+Cooling Blanket
+fi02 set
+Insp. time
+SIZURE PADS
+SvO2 MVG
+CCO CI
+CCO CO
+Flolan chart cc/hr
+Flovan chart as cchr
+NO tank PSI
+total PeeP
+AUTOPeeP
+LEFT FEM ABP
+RIGHT FEM ABP
+HI LOW NEB
+JP #1 R SITE/DRAINAG
+JP#2 L SITE/DRAINAGE
+T TUBE SITE/DRAINAGE
+reg insulin
+TEMP GRAFT
+Nitric Tank psi
+BILI & LYTES
+VBG
+Nicardip.mcg/kg/min
+Neo mcg/kg/min
+RT FEM ART LINE
+left fem. aline
+right femoral aline
+low rr
+Atropine Oint.
+Bacitracin Eye Oint
+PredForte
+KPHOS
+Cosopt
+FEM A LINE
+Atropine eye drops
+Tri Visol
+mucous fistula L
+Caffeine(bolus)
+gel pillow
+solumedrol drip
+Hyperoxia
+PODUS BOOT
+sacral drsg change
+left thigh hematoma
+passey-muir valve
+l/r heel drsg change
+PEG TUBE DRESSING
+AICD
+Shampoo
+Central line SVO2
+R/L FLAP PULSE
+Neo Opium Solution
+finger stick glucose
+bath care
+Gent eye ointment
+LEFT AXILLA PULSE
+low insp. pressure
+foely
+ileostomy appearance
+EPIDURAL RATE
+SKIN
+GlycerineSuppository
+Time High
+Time Low
+Press Low
+Pressw High
+Na Cl supps
+I.T
+slope
+Insp. Time
+hi/min/vent
+Nicardipine gtt
+peric. drain flushed
+rt art line
+bed roation
+L FEM ART BP
+t diconnect
+ATC size
+Abdominal xray
+Camino Monitor
+Suprapubic cath site
+check bruit l arm
+high min. volume
+penrose drain area
+piperacillin-tazbac
+healed penrose site
+Tobramycin oint
+T disconnect
+multi-podis boots
+cariporide @ 21/ml
+PEJ SITE CARE
+T-DISCONNECT
+Turtle Shell Brace
+Camino Bolt
+ICP ventricle
+neuro drain type 2
+Intrinsic peep
+Nystatin Po suspensn
+rituximab
+nebulizer
+Solumedrolmg/kg/hr
+Right groin
+PPN
+HYPEROXYIA TEST
+Thoracentesis
+tank A
+tank B
+Blood Out
+automatic tube com
+high minute vent
+CIRC site
+coccyx drsg
+intrathecal catheter
+ICP-ventriculostomuy
+low MV
+cisatacurium mcg/k/m
+VENOUS/DOPPLER/BFM
+right groin sheath
+Lytes, Phenobarb
+peripheral sat
+phosphenytoin
+Normal saline
+CT sites
+Chloral hydrate
+IVF
+PPN/TPN
+Oral nystatin
+LYTES,BILI,LIVER PRF
+PHENOBARB & DILANTIN
+lithium level
+dressing changes
+bear hugger
+NEONATAL BILI
+lt arm sling
+Elastic gloves
+LR
+femoral abp mean
+hi tidal volume
+(L) FEM ART
+(R) FEM ART
+Triple ABX cream
+Right hydrocele
+tslo brace
+NRB
+STUDY DRUG
+DEFLATE RECTAL TUBE
+co-bedding
+Oral Nystatin
+Metocloprimide
+HIGH TIDAL VOLUME
+ATC % (size 7)
+MULTPODIS SPLINT
+spont Tidal volumes
+Skin
+cefixime
+SPONT VT
+Abd binder
+PRECEDEX
+op site
+CEFAZOLIN
+tobradex ointment
+Ph
+Pl
+Th
+Tl
+Na bicarb
+fliud bolus
+d51/2NSc 20meq kcl
+Afrin Nasal Drops
+Vanco trough
+HI/minute/Vol
+umbi hrenia
+Butt Paste
+tremors
+nitro mcg/kg/min
+Chest tube fluc
+chest tube air leak
+Chest Circum    (cm)
+pedi ngt
+DRIVING PRESS.
+alteplase mg/hr
+alteplase
+Heparin level
+Heliox Tank PSI
+Heliox flow
+OGT residual
+Ti
+SVR/PVR ratio
+Tank pressure
+ngt residual
+Active ROM RUE/LUE
+Passive ROM RUE/LUE
+PEG SITE CARE
+passy-muir valve
+foley changed
+VASOPRESSIN U/HR
+THAM CC/HR
+ECMO FLOW RATE
+ecmo fio2
+low exhaled min. vol
+left radial ABP
+left radial MAP
+dulc.supp andenema
+D5W & 40Gm CaGluc
+cap gas
+nif
+vc
+DRIVING PRSSR
+iabp-bp
+hi VE
+Pericardial flush
+himv
+Warm hand pack
+ostomy
+famotidine mg/hr
+Multipodos
+TRACH SITE
+octreotide
+PROTONIX 80MG/250
+I-Time
+stv
+zz tubing present
+thrill/bruit
+phenylephrine
+Peg Care
+Lytes,ABG,Bili
+MULTI PODUS SPLINTS
+dtap-hepb-ipv comb.
+PCV-Delta P
+D10W bolus
+Hi insp press
+IABP-BP
+O2 %
+Gent ointment
+HIGH MIN VOL.
+EDV1
+EF %
+Triple abx ointment
+D02-1
+V02
+high min.vol.
+svt
+P-High
+P-Low
+T-High
+prednisolone gtts
+PEG care
+CISATRICURI MCG/K/MI
+THIGH HI TEDS.
+QUAD COUGHING
+L arm: thrill/bruit
+TIDAL VOLUME
+AMBU/NS INSTILLATION
+Metoclopromide
+Atropine eye oint.
+Cough
+Ca Glubionate
+Vit D
+Kphos
+tobra dex eye ointmt
+DECUBITI CARE
+COMBIVENT
+Triple AB ointment
+PERCUSSION
+LAVAGE
+r nare-saline irrign
+nesiritide
+Cisatricurium
+Propranolol
+chest binder
+ABD GIRTH
+NS FLUSH FOLEY
+Ionized calcium
+3x antibiotic oint
+Cyclomydril eye drop
+left ankle drsg ch
+thrush
+Femoral A-Line
+HALDOL MG IVP
+hep. b
+JVO2 SAT
+High Vent Alarm
+CAMINO
+ventriculostomy icp
+Neo-Synephrine gtts
+Dexamethasone, gtts
+Rt Thigh Girth
+right arm elevated
+METHYLPRED 450MG/HR
+spinal precautions
+CPAP MASK
+tegretol
+L FEM ART LINE
+Skin tags
+deistin
+QT interval
+Cisatr mcg/kg/min
+Precedex mcg/kg/hr
+CISATRACURIUMMG/KG/H
+Dressing  Change
+vision fields
+Aprotiinin ml/hr
+Nitric Oxide PPM
+Nitric tank pressure
+Amiodorone mg/hr
+Left Arm Girth (cm)
+DTR
+xygris
+Broviac dressing sie
+Abdominal incision
+low IP
+fenoldopam mcg/kg/mn
+Argatroban mcg/kg/m
+lipirudin
+liperudin
+high min
+Ilex oint
+abd pressure
+percusion
+Lacrilube ointment
+head circumference
+DSD on head
+hand drsg change
+HIGH MIN.VOLUME
+SOLUMEDROL DRIP
+Sigh Peep
+left groin pressure
+right groin pressure
+proning via bed.
+Octreotide mcg/hr
+Assess Peak Flow
+peri care
+P insp
+MgSO4
+pantoprazole80mg/100
+BP Lt. leg Mean
+BP Rt. Arm Mean
+BP Rt. Leg Mean
+Lt. arm BP S/D
+rectal tube care
+Nephrostomy
+ETCO2
+PECO2
+Glucagon infusion
+highmv
+Prostaglandin m/k/mn
+R ear
+broviac
+triple abx cream
+fem aline
+Gtube site
+Broviac dsg Change
+K Phos
+broviac lt saphenou.
+KPhos
+Zantac(Ranitidine)
+level one
+ct dressing
+PICC LINE DSG
+trach ties
+left foot dressing
+BILI
+foley size
+CARIPORIDE 20MG/HR
+180 degree rotation
+Dressing
+SSI HumR #units
+bactroban oint.
+rash
+Bivalirudin mg/kg/hr
+svo2 RIJ
+desitin cream
+R. test. hydrocele
+Abdominal Binder.
+CORTISOL LEVEL 30 MN
+CORTISOL LEVEL PRE
+L fem art line
+P-insp
+spontaneous VT
+R drain flush
+Zantac pg
+nasal septum
+TRACHEA DSG
+exh. vt
+insp. vt
+exh. ve
+inhaled ve
+SV02
+tpa mg/hr
+pin care
+valpro acid
+auto-peep
+Immodium
+DVO2I
+DVO2
+SV
+P-HI (APRV)
+P-LO (APRV)
+T-HI (APRV)
+T-LO (APRV)
+HFI Bias Flow:
+HFO % I time
+HFO Amplitude
+HFO Frq. (Hz)
+HFO MAP
+High MAP Alarm
+Low MAP alarm
+Tent
+PTPEXP
+PTPinsp
+ciwa
+r leg drsg change
+ART BP
+ART MEAN
+LLE circumference
+drsgs change
+left leg measurement
+Vidalin
+nimbex mg/kg/hr
+Hi/Minute/vol/alarm
+cc's/minute
+vacuum assist
+Nitric tank psi
+adductor pillow
+DRIVE P.
+methhemoglobin
+Passimier valve
+prednisolone
+ferrous sulfate
+LOW PEEP
+LOW PRESSURE
+LOW VT
+InExsufflator
+Sigh PEEP level
+MEASURED PEEP
+APNEA INT.
+Multipodus Splints
+GI tube #3
+dsg change to coccyx
+CAGLUCONATE2GMS/L.
+CALGLUCONATE20GMS/L
+TPN
+Sod Bicarb/NS
+ecmp pump flow
+pleural fluid pH
+EDEMA
+Neo Bili
+fem art
+PIC line placement
+left hydrocele
+NS Bolus
+Chest Tube
+TLSO brace
+cisatracuri/mcg/kg/m
+Qs/Qt
+insentive spir
+fem sheat
+T-pice
+Multipodus
+Knee Abrasions
+propanolol
+oral nystatin
+Amicar cc/hr
+HIGH VT
+FBS
+Right Fem site
+mupirocin ointment
+COMPLETE BATH
+Predisolone
+Cisat mcg/kg/min
+Atropine Ointment
+Cisat mcg/kg/hr
+Multi podis boot
+phenylephrine nasal
+TF residual/G-tube
+TF residual/J-Tube
+versed 400mg/100ml
+RA
+art #3
+INO TANK
+disconnect time
+Multipodis Boots
+Sigh pressr/rate
+RT AV thrill/bruit
+APROTONIN U/HR
+qtc
+Continuous CO
+Continuous CI
+irrigate pericardial
+Rapamycin
+Ativan
+Beclamethasone
+P Insp
+L AVF-BRUIT/THRILL
+IR SHEATH ABP
+PROPRANOLOL
+IR Sheath MAP
+Hair washed
+10% ETOH CC/HR
+protonix 80mg/250ml
+DISCONNECT ALARM
+podus boot
+Insp press mius PEEP
+R rad pulse
+PetCO2/TcCO2
+Epidural ml/hr
+PHENYFREE (1.0-2.0)
+Hi insp. pressure
+cariporide
+abductor pillow
+VITAMIN A
+bil leg drsgs
+Hep Flush 10u/cc
+Lytes,Trig,Bili
+methadone mg /hr
+Multi podus boot
+TOF level
+aprotinen cc/hr
+finger stick glucos.
+splints removed
+Abd US
+hernia/drsng
+DOPAMINE DRIP
+Chromosomal study
+PCV Total Pressure
+CARIPROSIDE
+ETOH Grams/hour
+CHEST WT ON/OFF
+DEXTRAN LML 10%
+high tidal vol
+Cisatracu mg/kg/hr
+HFO- FIO2
+HFO-% I Time
+HFO-Delta P (amplit)
+HFO-Hz
+HFO-MAP
+HFO-Bias Flow (lpm)
+tidal volume
+Cont. EEG
+perineum care
+Hep B Imm Globulin
+IRRIG FOLEY 50ML NS
+PASSy MUir valve
+alcohol gtt
+Temp CoB 1/W/C
+HIGH MIN.VOL.
+flap check
+left femerol artery
+right fem sheath
+vanco level
+R groin angio site
+L arm Fistula
+sigh rate
+GT Site
+DEEP BREATH & COUGH
+C&DB
+heliox lpm
+tank pressure
+GROIN DRESSING
+RT LE PULSE
+HEPARIN
+nimbex mcg/kg/min
+APROTININ U/HR
+FEM LINE BP
+THAM
+Ribavrin TX #
+cistra  mgm/kg/hr
+VIT A
+Neosynephrine gtts
+extra digit rt/lt fr
+bladder irrig. 60cc
+OPIUM SOL'N.
+Artic Sun
+Neonatal bili
+bladder pres.
+uvp
+lt av fistula bruit
+IVPPI
+PEG Care
+fem abp
+fem map
+Mucomyst
+ecmo
+bed/bath linen
+UMBI HERNIA
+Nystatin swabs
+fluconozole oral sol
+Right Groin Check
+logroll
+Actual PEFR
+Pred PEFR
+Sucrose H20
+g-tube site
+edema
+foley cath. care
+p Hi
+gentamycin eye ontmt
+Neosporin to GT site
+Polymyxin B oint
+ALBUMIN
+MULTIPODUS BOOT RT
+epidural
+PSV
+Abd.Binder
+urostomy
+alarm/high minute vl
+sse's and fleets
+l.heel drsg change E
+Creamy Desitin
+1o cc ns irrigation
+teds stockings
+jt flush 20cc q 8 hs
+NUTR PANEL,Hct, reti
+ketamine mg/hr
+CISATRACUR.MCGKGMIN
+URETERAL STENT.
+Bilateral hernia
+INO PRESS
+nitric ppm
+TRAIN OF FOUR
+Trans pul exp.
+Trans pul insp
+High NO alarm
+High NO2 alarm
+ABDOMINAL PRESSURE
+AMIODARONE CC/HR
+right fem. a-line
+Mammary Support Bra
+JV O2 Sat
+heprin flush
+gentamycin eye oint
+Hi min vol
+T discon
+LUE elevated
+Blocked tear duct
+QTC measurement
+L Hand Grasp
+R Hand Grasp
+csm to right hand
+T-discon
+Heliox total flow
+Broviac Dsg:
+Shunt Site
+Face
+abdomen dsg.
+left head dsg.
+criticaid oint.
+neonatal opium solun
+rash axilla
+C.O.
+Circumsion Site:
+R fem art BP
+high pressure
+Left arm Edema
+DEMEROL DRIP
+Nares Care
+Fissure
+Vit. A
+cardene mcg/kg/min
+Nephrostomy Tube LLQ
+Auto Rotation
+MgSO4          mg/hr
+Tdisconnect
+ACE WRAP
+FEM. ART BP
+trach press
+photosensitive prec
+L. lower abd. kidney
+Neosynephrine drops
+Decadron drops
+left flap check
+right flap check
+TCPCV Driving Press.
+SVO2-Presep. cath.
+tbili
+fingerstick bs
+Isuprel
+ALCOHOL
+sacral wound
+MULTIPODIS BOOTS
+Bivona positin 10
+Ribaviron
+CSM CHECK
+BILI, HCT. RETIC
+D50 amp bolus
+INSP TIME
+Sigh Breath/Pressure
+j-tube flush
+Heparin/PIC flush
+NACL SUPPS
+umbilical
+pantoprazole mgm/hr
+Nutrition Labs
+INEXSUFF
+Na Supps
+chest tube drsgs.
+NICARDIPINE MCQ/KG/M
+LFEMABP
+MDI #4
+30mmol NAPHOS
+g-tube flush
+Disconnect Alarm
+FS
+iv diuril
+Ambisome
+Ecmo Flows
+mushroom catheter
+meropnem
+isuprel
+Surgury
+G-Tube Site
+Hard Cast L FA
+Stomahesive Powder
+THERA VEST 15 MIN.
+CPT/VEST
+Percussive vest
+Rash left hand
+MV hi
+PMV on.
+Verapamil
+CHEST PERCUSSOR T
+Muco lavg
+RV DIAST
+RVSYSTOLIC
+Hgb
+PEJ CARE TID
+Hi Min vent
+Paw
+chest tube drsg.
+NECK FLAP CAP REFILL
+TPA 50MG IN 500NS
+penicillin
+dexmedetomidine
+High Minute volume
+approtinin cc/hr
+passy muir valve on
+Drivng press
+CALCIUM GLUC ML/HR
+PLow
+TLow
+High min. volume
+straight cath
+RLE ELEVATED
+PRUNE JUICE
+Urine PH
+rotation mode on   d
+gent peak/trough
+TSH NML(0.27-4.2)
+Nitric Dioxide
+TRACH CUFF TAKENDOWN
+O2% on INOvent
+NITRIOUS OXIDE
+INO TANK PRESS
+Transpulmonary Pres
+Vd/Vt:
+preauricular tag
+incision sites
+Vi-Day-Lin
+ligation site
+cistracurium mg/min
+THAM-trisaminomethan
+Lavage
+MultiPodus Splints
+desitin ointment
+Labetalol mcg/kg/min
+normal saline bolus
+nystatin oral suspen
+TANK PRESSURE
+02 ANALYZED
+NITRIC OXIDE PPM
+NO2 ANALYZED
+high minnute volume
+Nystatin oral.
+high NO
+TANK PRES NO
+High NO2
+low NO
+bed percussion
+HIGH NO2
+helioox neb flow
+Helioox nrb flow
+Heliox tank psi
+SIGH PEEP LEVEL
+Shunt
+Head Circ.
+High minute vent.
+ATG
+inner cannula
+Mucamyst
+circumcission
+tri abx ointment
+Bipap mask
+AMMONIA/12-47 UMOL/L
+Diaper
+fingers
+toes
+Pigtail dressing
+Nephrostomy Drain
+KETAMINE MG/HR
+KETAMINE
+high me alarm
+Palmer Pulses R/L
+Bed alarm
+protonics
+Brachial Site
+Brachial Site Appear
+Brachial Site Dressi
+hydrocele
+LEFT LEG DRSG
+naHCO3
+RA SAT
+WEDGE SAT
+ABD INC LINE
+BROVIAC DSG
+STOMA
+Fentanyl Bolus
+tidal vol
+WAFFLE BOOT
+Tinsp
+av fistula
+P4
+P5
+Ranitidine pg
+desitin prn
+PITRESSIN U/MIN
+Gentamicin Opthalmic
+RVEDV
+High minute Volume
+Aprotinin cc/hr
+CRITICAID
+mcgs Fentanyl IV
+mg Versed IV
+APRV Phi
+APRV Plo
+APRV T hi
+APRV T lo
+qtc interval
+pigtail flush
+ALCOHOL BATH
+FEMORAL ABP
+nausea
+HI/Minute/Vol/Alarm^
+cyclosporin mg/h
+low min vol
+TPA            mg/hr
+Vecuronium mcg/min
+L ARM SLING
+nitric tank pressure
+Nitric Oxide ppm
+high NO2
+Pedal edema
+VIT A INJ
+Spontaneous VT
+ABD BINDR/THIGH HI'S
+Calcium for CVVH
+MIXED VENOUS
+Low pressure
+I time
+Pres. High
+Pres. Low
+Trn of 4
+PRE OP PREP
+mist tent
+Cistracurium
+Criticaid/Powder
+icp left
+PICC Attempt
+HFO Delta P (amplt)
+HFO Hz
+HFO-Bias Flow
+HFO-FiO2
+HFO-Max mean airway
+HFO-Min mean airway
+lepirudin mgs/kg/hr
+leprudin
+lf flap pulse
+L breast doppler
+nephostomy
+40GmCaGluc/1000ccNS
+Halo
+Splint off,skin chk
+CSM of left toes
+CSM of right toes
+pre ductal sat
+flow trigger
+PRESSURE SUPPORT
+residual
+Umb. Hernia
+NT SX
+SPIT
+FEM ALINE MAP
+solumedol
+vidalin
+ferinsol
+hood
+JP DRAIN
+multi drsg changes
+An GAP
+NC
+walking o2 sat
+walking hr
+APROTONIN 250,000U/
+bivalirudin
+low Vt
+Resp. Rate
+Multipodis Boot
+tpa mg/hour
+stoma adhesive powd
+line placement
+CHECK BRUIT L ARM
+left AV thrill/bruit
+evd
+INTRAABDOM. PRESSURE
+RT ABD GRAFT PULSE
+drive P.
+qt
+DTO
+High pressure
+High time
+Low time
+automatic tube comp
+P.high
+P.low
+T. high
+pigtail dsg change
+T. low
+Effluent BUN
+Effluent Cr
+halo traction
+PT Eval
+NO
+baby vitamins
+Vasopressin  u/hr
+acycloviv
+rt groin
+Humatrope
+high    mv
+Rt Neck Massage
+Warm compress
+HI/Minute/Vol Alarm
+Breath Sounds
+icd
+sheath a line
+r fem art line
+INO LEVEL
+FLAP COLOR/TEMP
+Venous signal
+EPOPROSTENOL
+NO tank psi
+seizure pads on bed
+Colostomy Stoma
+NAS assessment
+lt. lat. decub
+PLTS
+R NEPHROSTOMY
+PENTOBARB DRIP MG/HR
+Methylhemaglobin
+TLOW
+multipodis splints
+Transtracheal
+oob to chair
+PPM
+precedex mcg/kg/hr
+nasal cannula
+adjustable flange
+RANGE OF MOTION
+L&R DECUB DRSG CHGE
+PULSE
+Multipodus boots.
+Critic-aid oint
+DEEP BREATH&COUGH
+CINA SCALE
+PCV driving pressure
+HI/Minute/VOl
+P Lo
+mask/sz
+CORNEAL REFLEXES
+leg dressings
+HI MV Alarm
+HIGH MINUTE VENT.  N
+High MV Limits
+THIGH HI TEDS
+Auto Tube Comp
+passymuir valve
+oral thrush
+miconazole cream
+Erythropoetin SQ
+driveP
+hydrocyle
+MEAN AIRWAY PRESS
+Security Guard
+ecmo l/min
+xigris mcg/kg/hr
+Analyzed INOV FiO2
+NO tank pr
+bladder scanner
+lvad svr
+foley d/c
+right femoral sheath
+peak flow pre neb
+cefotaxine
+CARAIPORIDE CC/HR
+D5W 100meq NaHC03
+fem a-line
+Mixed Venous SaO2
+SJ CO2
+sjo2
+sjph
+sjlactate
+ESMOLOL MCG/MIN
+PLOW
+THIGH
+Tidal Vol (P High)
+Tidal Vol (P Low)
+Fistula
+Sigh peep level
+EPIDURAL
+swallow
+vision
+EOMs
+shoulder shrug r/l
+ergocalciferol
+Loperamide
+L heel protect boot
+high ve            n
+Hi min vent
+NEPHRO TUBE
+NEPHROTUBE COLOR
+VASOPRESSIN   UNIT/R
+right leg bruit
+lab svo2
+hydroactive gel
+total RR
+Pt Leak
+VENOUS FLOW/GRAFT
+REE
+RQ
+VCO2
+TED STOCKINGS BILAT
+Disconnect
+COO
+Pmax
+I TIME
+right armpit
+aorta axillary graft
+uac/uvc placement
+Radial a-line
+circ.site
+femoral ART Line
+Hydroceles
+Hydrocele:
+Critic Aide
+Other cooling
+bath/ shampoo
+Vitamin A IM
+1.Nausea &vomitting
+2.tactile Disturban
+3.Tremor
+4.Auditory disturban
+5.Paroxysmal sweats
+6.visual Disturbanc
+7.anxiety
+8.headach,fullness
+9.agitation
+Total CIWA scale
+OGT Sugar level
+TUBE feed sugar levl
+APROTININ  ML/HR
+FOLLOWS CONSISTENTLY
+Continuous EEG q1hr
+cisatracurium mg/hr
+K Phosphate
+nacl
+KPhosphate
+scalp
+Dexamethasone eye ds
+MPB
+High min vol.
+carioride cc/hr
+RR
+High min. vent.
+High minute Vent.
+Urine Cl-
+Salicylate
+Urine Na+
+Urine Osm
+Urine creat
+extremities elevated
+EYE CARE
+umbi hernia measure
+Gent eye oint
+Driving Press
+Bed Rotation Right _
+bed alarm on
+CHROMOSOMES
+Vath
+high minute ven    n
+urine calcium
+urine creatinine
+Urine lytes
+pupil deviation
+lab draw
+Erythromycin Oint
+Criticaid Paste
+Vit A IM
+BP Q8H
+amoxacillin
+LUE fistula thrill
+high mn vent
+COUGH/DEEP BREATHING
+l upper body drsg
+venous o2 sat
+SSI HumR #u
+Postductal O2 Sat
+Preductal O2 Sat
+glucagon mg/hr
+nimbex
+MULTIPODUS BOOT
+ICE PACKS PERINEAL
+cisatricurium mg/k/h
+EEG (burst/min)
+SPNIOT TIDAL VOLUMES
+rotating bed
+PERICARE
+Post ductal sat
+Bed bath/shaved
+cisatricurium/mc/k/m
+bivalirudin mg/hr
+ACE WRAP RIGHT LEG
+RIGHT FEM ALINE
+bld pres
+trach mark
+R FEM
+criticaide
+Atropine Gtts
+TPA MG/MIN
+Coccyx drsg change
+LT. AVF BRUIT/THRILL
+L AND R CALF DRSG
+L AND R HEEL DRSG
+DEXTROSE GM/HR
+NAHCO3- MEQ/HR
+passy-muir/cuff
+20# to skeletal tx
+solumed mg/kg/hr
+Femoral ABP
+RIGHT VENT ICP
+right vent drain
+Femoral ABP (Mean)
+Auto PeeP
+tof
+VENOUS DOPPLER
+fentanyl mg/hr
+Insp.Time
+XIGRIS @ 1.66 MG/HR
+d10w
+ICE PACKS TO R EYE
+Amicar mg/hr
+INTRATHECAL CATHL2-3
+dobutamine
+Caffiene Bolus
+ARGATROBAN
+Facial Droop
+Pronator Drift
+NICARDIPINE MCG/KG/M
+low mv
+Lacrilube Ointment
+Vitamin A injections
+NYSTATIN OINTMENT
+surgery consult
+derm consult
+prednisone
+u/s of left arm/neck
+Inner canula
+ICP Right
+CPP WITH CAMINO ICP
+HI/Minute/vol/Alarm
+right fem bp
+Lytes.Tbili,ABG
+Elevate L leg
+ALINE, RIGHT RADIAL
+ABG, Io CA
+RIBAVIRIN RX
+skin laceration
+Ostomy appliance
+Actigal
+Left Arm Massage
+X-Ray
+NO2 TANK PRESSURSE
+INO alarms
+ACETYCYSTEINE
+50% Dextrose gm
+NESIRITIDE
+PIC Line placement
+Vitamin A INJ
+arterial pulse flap
+venous pulse
+MultiPodus Boot
+Lt hand splint &ace
+decub drsg.
+diaper area
+right arm sling
+Tobradex eye ung
+NYSTATIN POWDER
+NYSTATIN ORAL
+MDI # 4 (drug/puffs)
+pectus
+fem/fem bpg
+R ax fem bpg pulse
+LEG ROLL
+spinal pse.
+Trach Sx Color
+Trach Sx Quantity
+Trach Sx Quality
+Heated Aerosol Neb
+k phosphorus
+fentanyl iv
+midazolin iv
+rubinol
+trach care/site
+CVL site
+CT dsg
+surface cultures
+Hep flush 10U/CC
+Hep Flush 10U/cc
+Mitrazole powder
+Aveeno bath
+CISATRACUR MCG/K/MIN
+(R) FEMORAL SHEATH
+Neonatal bili, lytes
+DRAIN FLUSH
+min vol
+warm pack to lt arm
+180 Degree rotation
+NAS score
+Ace wrap on left fot
+flowrate cc/min
+PMV Trial
+natrecor
+PADS/NECK INCISION.
+NECKJP/DRAINAGE/SITE
+Epidural rate
+CPAP AMT
+RT. AVF BRUIT/THRILL
+BREAST BINDER
+face mask 02%
+flowrate cc's
+G-tube site
+nystatin pwdr
+Erythropoetin
+1-10 ML 20% MUCOMYST
+P (drive)
+He tank pressure
+SOLUMEDROL CC/H
+Triple antibx oint
+APNEA INTERVAL TIME
+Nystatin (PO)
+ceftazidine
+Glucagon       mg/hr
+EEG/Cont
+CSM to toes
+mitrazole pwd
+mulitpodus boots
+Face Droop
+Tongue Deviation
+automatic tube comp.
+propofol
+Neonatal Morphine PO
+Acety42gm/1L-mg/kg/h
+CISATRACURIUM GTT
+Cisatra  mcg/kg/min
+lipase
+abg: glucose
+CSF PRESSURE
+Prednisolone Drops
+Atropine 1% eye drop
+abd/bldr press
+ileal conduit
+methadone
+spontaneous vt
+1:1 Sitter
+VENT DRAIN
+r wrist brace
+carbamazepine
+left eye
+unassisted diastole
+unassisted systole
+Opthamology consult
+venous 02sat
+t-Hi
+umbi care
+ROTATION ON/OFF
+sheepskin for heels
+high exhaled min.vol
+BLADDER SCAN AMOUNT
+bed rotation on/off
+genta irrig cc/hr
+Dexmedetomidine
+left  lower leg cast
+Traction amt (lbs)
+Bed Percussion
+coccyx dsg change
+Bed exit alarm
+IoCa
+peripad
+mucomyst mg/hr
+LAP
+Bruising [Existence]
+Eye Drainage [Left]
+HR Alarm [Low]
+Posterior Fontanelle [Texture]
+Stool [Amount]
+Temp/Iso/Warmer [Type]
+ROM [Type]
+Anterior Fontanelle [Texture]
+Anti-Embolism [Device]
+Arterial BP [Systolic]
+Inc #1 [Dressing]
+Urine [Color]
+INV Line#1 [Type]
+IV #1 [Site]
+IV #2 [Site]
+IV #4 [Site]
+NBP [Systolic]
+Pupil Response [Right]
+Pupil Size [Right]
+Responds to Stimuli [Type]
+Corneal Reflex [Right]
+IV #3 [Site]
+Inc #1 [Closure]
+Inc #1 [Drainage]
+Dorsal PedPulse [Right]
+PostTib. Pulses [Right]
+Pain Management [Route/Status #1]
+Sputum [Color]
+GI Prophylaxis [Drug #1]
+NBP Alarm [Low]
+Resp Alarm [Low]
+SpO2 Alarm [Low]
+SaO2 Alarm [Low]
+BP Cuff [Systolic]
+Edema [Existence]
+GI Tube #1 [Site]
+GI Intub #1 [Type]
+GI#1 Tube [Status]
+Skin [Temperature]
+ImpSkin #1 [Drain]
+ImpSkin #1 [Width]
+ABP Alarm [Low]
+Warming [Device]
+Emesis [Appearance]
+ETT [Mark]
+MDI #1 [Puff]
+MDI #2 [Puff]
+INV Line#2 [Type]
+Inc #2 [Closure]
+Inc #3 [Closure]
+Inc #4 [Closure]
+Inc #4 [Drainage]
+Inc #3 [Dressing]
+Inc #4 [Dressing]
+Stool [Color]
+CVP Alarm [Low]
+Sputum Source
+CT #1 [Fluctuate]
+CT #2 [Fluctuate]
+Cooling [Device]
+INV Line#3 [Type]
+ImpSkin #3 [Drain]
+INV Line#4 [Type]
+ImpSkin #4 [Drain]
+Pressure Sore #1 [Stage]
+Pressure Sore #1 [Drainage]
+Angio Appearance #1 [Attribute 1]
+LLE [Temp]
+RLE [Temperature]
+KneeImmobilizeLoc [Right]
+FIO2 Alarm [Low]
+IV #2 [Location]
+IV #3 [Location]
+Remote Alarm [S]
+RLE [Sensation]
+RUE [Sensation]
+Apnea [Existence]
+PAP [Systolic]
+CT #3 [Fluctuate]
+INV Line#5 [Type]
+Inc #2 [Dressing]
+Ostomy [Type]
+PAP Alarm [Low]
+Inc #2 [Drainage]
+Inc #3 [Drainage]
+GI [Guaiac]
+MDI #3 [Puff]
+Neuro Drain [Level]
+Atrial Pacemaker [mA]
+Chest PT [Right]
+Ventricular Pacemaker [mA]
+Atrial Pacemaker Sense [mV]
+Ventricular Pacemaker Sense [mV]
+Edema #1 [Location]
+Edema #2 [Location]
+ImpSkin #5 [Drain]
+Capillary Refill [Right]
+ImpSkin #2 [Drain]
+Atrial Pacemaker Threshold [Unit]
+Atrial Pacemaker [Sense]
+Ventricular Pacemaker [Sense]
+IV #1 [Location]
+GI Tube #2 [Site]
+GI Intub #2 [Type]
+GI#2 Tube [Status]
+Kangaroo Care [Time]
+LUE [Temp]
+RUE [Temperature]
+Trach [Cuff]
+BP Left Arm [Systolic]
+BP Left Leg [Systolic]
+BP Right Arm [Systolic]
+BP Right Leg [Systolic]
+BP Alarm [Low]
+BP PAL [Systolic]
+Angio Appearance #2 [Attribute 1]
+Brachial Pulse [Right]
+Radial Pulse [Right]
+Femoral Pulse [Right]
+Manual BP [Systolic]
+Patient controlled analgesia (PCA) [Inject]
+ImpSkin #6 [Drain]
+ICP Alarm [Low]
+Orthostat BP sitting [Systolic]
+OrthostatBP standing [Systolic]
+Orthostatic BP lying [Systolic]
+Initials (2 RNs) [RN #1]
+Med Wasted [Drug]
+ImpSkin #3 [Width]
+Pressure Sore #1 [Width]
+Ventricular Pacemaker Threshold [Unit]
+Car Safety Seat Screen [Remark]
+[Color]
+ABI Ankle BP [Right]
+ABI Brachial BP [Right]
+Inc #5 [Drainage]
+Inc #5 [Dressing]
+ImpSkin #2 [Width]
+ImpSkin #4 [Width]
+BP UAC [Systolic]
+Pressure Sore #2 [Stage]
+Pressure Sore #3 [Stage]
+Pressure Sore #2 [Drainage]
+Pressure Sore #3 [Drainage]
+Hernia [Right]
+Inc #5 [Closure]
+Pupil Reactivity [Left]
+Inc #6 [Closure]
+Pressure Sore #3 [Width]
+Inc #6 [Drainage]
+Inc #6 [Dressing]
+ImpSkin #5 [Width]
+Pressure Sore #2 [Width]
+Skin Integrity [Attribute #1]
+IV #4 [Location]
+Seizure [Activity]
+PT Splint #1 [Location]
+PT Splint #2 [Location]
+MAWP Alarm [Low]
+INV Line#6 [Type]
+GI Tube #3 [Status]
+PT Splint #3 [Location]
+CT #4 [Fluctuate]
+Hernia [Left]
+Ulnar Pulse [Right]
+O2 sat [Pre]
+Popliteal Pulse [Right]
+Arterial BP #2 [Systolic]
+Testes [Left]
+INV Line#7 [Type]
+INV Line#8 [Type]
+ImpSkin #6 [Width]
+IV #5 [Location]
+Nares [Right]
+VAD Beat Rate [Right]
+zzz Stim Thresh mA [Unit]
+zzzt Stim Thresh mA [Unit]
+TcO2 [Value]
+PT Splint #4 [Location]
+Nares Patent [Left]
+ABP [Systolic]
+Blink Reflex [Left]
+Temp/Iso/Warmer [Temperature, degrees C]
+HR Alarm [High]
+SaO2 Alarm [High]
+Anterior Fontanelle [Shape]
+Bruising [Location]
+Posterior Fontanelle [Shape]
+BP Cuff [Diastolic]
+Edema [Location]
+MAWP Alarm [High]
+ABP Alarm [High]
+CVP Alarm [High]
+PAP Alarm [High]
+Resp Alarm [High]
+SpO2 Alarm [High]
+Arterial BP [Diastolic]
+ETT [Location]
+PAP [Diastolic]
+Sputum Consistency
+Sputum [Amount]
+Dorsal PedPulse [Left]
+GI Intub #1 [Site]
+GI#1 Tube [Drain]
+Pupil Response [Left]
+Pupil Size [Left]
+Responds to Stimuli [Value]
+Urine [Appearance]
+INV Line#1 [Site]
+INV Line#2 [Site]
+INV Line#3 [Site]
+Anti-Embolism [Status]
+Inc #1 [Amount]
+Inc #1 [Status]
+MDI #1 [Drug]
+GI Intub #2 [Site]
+Remote Alarm [D]
+FIO2 Alarm [High]
+INV Line#4 [Site]
+IV #1 [Size]
+IV #2 [Size]
+PostTib. Pulses [Left]
+Skin Integrity [Attribute #2]
+Corneal Reflex [Left]
+LLE [Sensation]
+LUE [Sensation]
+IV #3 [Size]
+NBP Alarm [High]
+NBP [Diastolic]
+Angio Appearance #1 [Attribute 2]
+KneeImmobilizeLoc [Left]
+LLE [Color]
+RLE [Color]
+Skin Condition
+IV #4 [Size]
+Atrial Pacemaker [Capture]
+CT #1 [Leak]
+Inc #2 [Status]
+Ventricular Pacemaker [Capture]
+ImpSkin #1 [Length]
+Inc #3 [Status]
+Inc #1 [Appearance]
+Inc #2 [Appearance]
+PT Splint #1 [Status]
+PT Splint #2 [Status]
+Trach [Fenestra]
+Patient controlled analgesia (PCA) [Attempt]
+Pressure Sore #1 [Heal]
+Ventricular Pacemaker [Sensitivity]
+Atrial Pacemaker Sense [mA]
+Ventricular Pacemaker Sense [mA]
+Atrial Pacemaker [Sensitivity]
+Pain Management [Route/Status #2]
+Inc #3 [Appearance]
+CT #2 [Leak]
+CT #3 [Leak]
+Warming [Status]
+Inc #2 [Amount]
+Inc #3 [Amount]
+GI Prophylaxis [Drug #2]
+Inc #4 [Amount]
+LUE [Color]
+RUE [Color]
+ImpSkin #1 [Amount]
+Ostomy [Appearance]
+Chest PT [Left]
+MDI #2 [Drug]
+Edema #1 [Amount]
+Kangaroo Care [Tolerated]
+Pressure Sore #2 [Heal]
+Pressure Sore #1 [Amount]
+ImpSkin #2 [Amount]
+ImpSkin #2 [Length]
+Pressure Sore #1 [Length]
+Stool [Consistency]
+Pressure Sore #2 [Amount]
+GI [pH]
+Inc #4 [Status]
+Radial Pulse [Left]
+Ulnar Pulse [Left]
+Capillary Refill [Left]
+Pressure Sore #2 [Length]
+BP Left Arm [Diastolic]
+Atrial Pacemaker Threshold [Value]
+Ventricular Pacemaker Threshold [Value]
+BP PAL [Diastolic]
+Angio Appearance #2 [Attribute 2]
+GI#2 Tube [Drain]
+Inc #4 [Appearance]
+Orthostat BP sitting [Diastolic]
+OrthostatBP standing [Diastolic]
+Orthostatic BP lying [Diastolic]
+Car Safety Seat Screen [Result]
+BP Left Leg [Diastolic]
+BP Right Arm [Diastolic]
+BP Right Leg [Diastolic]
+Initials (2 RNs) [RN #2]
+Med Wasted [Amount]
+Neuro Drain [Location]
+Eye Drainage [Right]
+MDI #3 [Drug]
+BP UAC [Diastolic]
+Cooling [Status]
+ImpSkin #4 [Amount]
+BP Alarm [High]
+Femoral Pulse [Left]
+Brachial Pulse [Left]
+Edema #2 [Amount]
+ImpSkin #5 [Amount]
+ROM [Value]
+Manual BP [Diastolic]
+ImpSkin #3 [Length]
+Apnea [Duration]
+GI Tube #3 [Drain]
+INV Line#5 [Site]
+ImpSkin #3 [Amount]
+INV Line#6 [Site]
+Inc #5 [Appearance]
+Inc #5 [Status]
+ICP Alarm [High]
+PT Splint #3 [Status]
+Arterial BP #2 [Diastolic]
+CT #4 [Leak]
+O2 sat [Post]
+ImpSkin #6 [Amount]
+Testes [Right]
+ImpSkin #4 [Length]
+Popliteal Pulse [Left]
+Inc #5 [Amount]
+ABI Ankle BP [Left]
+ABI Brachial BP [Left]
+Pressure Sore #3 [Heal]
+Pressure Sore #3 [Amount]
+Pressure Sore #3 [Length]
+INV Line#7 [Site]
+ImpSkin #5 [Length]
+Inc #6 [Appearance]
+Inc #6 [Amount]
+Inc #6 [Status]
+Pupil Reactivity [Right]
+Emesis [pH]
+INV Line#8 [Site]
+ImpSkin #6 [Length]
+Seizure [Duration, seconds]
+Nares [Left]
+zzz Stim Thresh mA [Value]
+VAD Beat Rate [Left]
+PT Splint #4 [Status]
+zzzt Stim Thresh mA [Value]
+Nares Patent [Right]
+ABP [Diastolic]
+TcCO2 [Value]
+Blink Reflex [Right]
+Self ADL
+History of slips / falls
+Intravenous  / IV access prior to admission
+ETOH
+Recreational drug use
+Currently experiencing pain
+Difficulty swallowing
+Special diet
+Unintentional weight loss >10 lbs.
+Dialysis patient
+Sexuality / reproductive problems
+Smoking Cessation Info Offered through BIDMC Inpatient Guide
+Insulin pump
+Any fear in relationships
+Emotional / physical / sexual harm by partner or close relation
+Pregnant
+Visual / hearing deficit
+20 Gauge Dressing Occlusive
+20 Gauge placed in the field
+ST Segment Monitoring On
+Alarms On
+Impaired Skin Odor #1
+Impaired Skin Odor #2
+Impaired Skin Odor #3
+20 Gauge placed in outside facility
+High risk (>51) interventions
+CHG Bath
+Stool Guaiac QC
+Subglottal Suctioning
+PICC Line placed in outside facility
+PICC Line Dressing Occlusive
+Is the spokesperson the Health Care Proxy
+Social work consult
+Discharge needs
+No wallet / money
+18 Gauge placed in outside facility
+18 Gauge Dressing Occlusive
+Arterial Line Zero/Calibrate
+Arterial Line Tip Cultured
+Arterial Line placed in outside facility
+Arterial Line Dressing Occlusive
+Called Out
+18 Gauge placed in the field
+Multi Lumen placed in outside facility
+Multi Lumen Dressing Occlusive
+ICU Consent Signed
+Dialysis Catheter placed in outside facility
+Dialysis Catheter Dressing Occlusive
+Impaired Skin Odor #4
+Impaired Skin Odor #5
+Unable to assess psychological
+Unable to assess teaching / learning needs
+See chart for initial patient assessment
+Unable to assess pain
+Impaired Skin Odor #6
+Impaired Skin Odor #7
+Multi Lumen Zero/Calibrate
+16 Gauge Dressing Occlusive
+16 Gauge placed in outside facility
+Midline placed in outside facility
+Midline Dressing Occlusive
+Blood Transfusion Consent
+Post menopausal
+Tobacco use
+Legal Guardian
+22 Gauge placed in outside facility
+22 Gauge Dressing Occlusive
+22 Gauge placed in the field
+Sheath Zero/Calibrate
+Sheath placed in outside facility
+Sheath Line Dressing Occlusive
+Unable to assess activity / mobility
+Unable to assess nutrition / education
+Unable to assess cognitive / perceptual
+CCO PAC Zero/Calibrate
+CCO PAC placed in outside facility
+CCO PAC Dressing Occlusive
+Multi Lumen Line Tip Cultured
+Unable to assess habits
+AVA Dressing Occlusive
+AVA Line Tip Cultured
+AVA Line placed in outside facility
+AVA Line Zero/Calibrate
+ETT Re-taped
+Indwelling Port (PortaCath) Dressing Occlusive
+16 Gauge placed in the field
+PAR-Remain sedated
+Cordis/Introducer Dressing Occlusive
+Presep Catheter placed in outside facility
+IABP Zero/Calibrate
+IABP Alarms Activated
+Cordis/Introducer placed in outside facility
+IABP placed in outside facility
+IABP Dressing Occlusive
+PICC Line Tip Cultured
+Trauma Line Dressing Occlusive
+Trauma Line placed in outside facility
+PA Catheter placed in outside facility
+PA Catheter Dressing Occlusive
+Transportation
+PA Catheter Zero/Calibrate
+Presep Catheter Zero/Calibrate
+Presep Catheter Dressing Occlusive
+Family Meeting
+Ndwelling Port (PortaCath) placed in outside facility
+Midline Tip Cultured
+Cordis/Introducer Line Tip Cultured
+GI Guaiac QC
+14 Gauge placed in outside facility
+14 Gauge Dressing Occlusive
+14 Gauge placed in the field
+Dialysis Catheter Tip Cultured
+In-line Suction Catheter Changed
+Low risk (25-50) interventions
+RIC placed in outside facility
+RIC Dressing Occlusive
+Restraints Ordered
+Money given to hospital cashier
+Pericardial Drain Aspiration
+Re-admit < 48 hours
+CCO PAC Line Tip Cultured
+Tunneled (Hickman) placed in outside facility
+Tunneled (Hickman) Dressing Occlusive
+Impaired Skin Odor #8
+Impaired Skin Odor #9
+Impaired Skin Odor #10
+Presep Catheter Line Tip Cultured
+Patient agrees with the above goals and is willing to participate in the rehabilitation program
+Patient/Family Informed_V1
+APACHEII-Renal failure
+Calibrated (PiCCO)
+Pheresis Catheter placed in outside facility
+Pheresis Catheter Dressing Occlusive
+PA Catheter Line Tip Cultured
+ICP Line placed in outside facility
+ICP Line Zero/Calibrate
+ICP Line Dressing Occlusive
+Tunneled (Hickman) Line Tip Cultured
+Triple Introducer placed in outside facility
+Triple Introducer Dressing Occlusive
+Medication Bolus - Adjunctive Pain Management
+ICP Line Tip Cultured
+Assisted living
+VA hospital
+Hospice inpatient
+Hospice home
+DME
+Free care pharmacy 
+Trauma Line Tip Cultured
+Intubated_ApacheIV
+Use A-aDO2
+ARF
+Chronic Dilaysis
+CABG Patient
+Diabetes
+Thrombolytic therapy
+Ventilated at any time during ICU Day 1
+Pericardial Drain Flush
+Sheath Line Tip Cultured
+Long term care custodial non-Medicare certified
+Patient/family/team understand & agree with plan
+Pheresis Catheter Line Tip Cultured
+Triple Introducer Line Tip Cultured
+Tandem Heart Access Line Pump Housing Checked
+Tandem Heart Access Line Repositioned
+Tandem Heart Return Cannula Dressing Occlusive
+Tandem Heart Return Cannula Migration
+Tandem Heart Return Cannula Repositioned
+Access Site Observed (Tandem Heart)
+Cannulas Visible
+Oxygenator/ECMO
+Return Site Observed (Tandem Heart)
+Tandem Heart Access Line Dressing Occlusive
+Vibration in Line
+Change in Blood Color
+Triple Introducer Zero/Calibrate
+Impella Catheter Repositioned
+Impella Dressing Occlusive
+Dorsal PedPulse L
+PostTib. Pulses L
+RUE Color
+RLE Color
+LUE Color
+LLE Color
+Nares R
+Urine Color
+Skin Temperature
+Edema Location
+Ectopy Type 1
+Response
+RUE Temp
+LUE Temp
+RLE Temp
+LLE Temp
+Urine Appearance
+Nares L
+Level of Consciousness
+Pain Management
+Pain Level Acceptable
+Pain Assessment Method
+Pain Level Response
+O2 Delivery Device(s)
+Richmond-RAS Scale
+History of falling (within 3 mnths)
+Secondary diagnosis
+Ambulatory aid
+IV/Saline lock
+Gait/Transferring
+Mental status
+Safety Measures_U_1
+Pupil Size Left
+AV Fistula R Bruit
+AV Fistula R Thrill
+Edema Amount
+20 Gauge Site Appear
+Pupil Response Right
+Pupil Response Left
+Restraint (Non-violent)
+Goal Richmond-RAS Scale
+Delirium assessment
+CAM-ICU MS Change
+All Medications Tolerated without Adverse Side Effects
+Sputum Amount
+ETT Mark (location)
+ETT Mark (cm)
+Flow Pattern
+Flow Rate (variable/fixed)
+ETT Type
+Flow Sensitivity
+Humidification
+Pheresis Catheter Site Appear
+Pheresis Catheter Type
+GCS - Eye Opening
+Daily Wake Up Deferred
+Anti Embolic Device
+Arterial line Site Appear
+Arterial line Waveform Appear
+Sputum Color
+Temperature Site
+Ectopy Frequency 1
+GI #1 Tube Status
+Anti Embolic Device Status
+GI #1 Tube Place Method
+Patient/Family Informed_V2
+Immobilizer
+Immobilizer Device
+Immobilizer Evaluated
+Immobilizer Location
+Reason for Immobilizer
+Side Rails_V2
+Safety Measures
+ETT Size (ID)
+ETT Location
+NIV Mask
+ABP Alarm Source
+NBP Alarm Source
+20 Gauge Reason Discontinued
+Temporary Pacemaker Type
+Temporary Pacemaker Mode
+Temporary Pacemaker Wire Condition
+Transcutaneous Pacer Placement
+Temporary Ventricular Sens
+Temporary Ventricular Capture
+Dorsal PedPulse R
+PostTib. Pulses R
+Small Volume Neb Drug/Dose #1
+Cordis/Introducer Site Appear
+18 Gauge Site Appear
+Pressure Reducing Device
+Incision Closure #1
+Incision Drainage #1
+Incision Dressing #1
+Incision Cleansing #1
+Incision Appearance #1
+Dressing Status #1
+Incision Appearance #2
+Incision Appearance #3
+Incision Cleansing #2
+Incision Cleansing #3
+Incision Closure #2
+Incision Closure #3
+Incision Drainage #2
+Incision Drainage #3
+Incision Dressing #2
+Braden Friction/Shear
+18 G Phlebitis Scale
+18 G Infiltration Scale
+GI #2 Intub Site
+GI #2 Tube Drainage
+GI #2 Tube Type
+GI #2 Tube Status
+GI #2 Tube Place Check
+GI #2 Tube Place Method
+Motor L Arm
+Motor L Leg
+Motor R Arm
+Motor R Leg
+Corneal Reflex Left
+Corneal Reflex Right
+Restraint Location_V2
+PICC Line Site Appear
+Dialysis Catheter Site Appear
+Dialysis Catheter Type
+Dialysis Catheter Placement Confirmed by X-ray
+PICC Line Placement Confirmed by X-ray
+GCS - Verbal Response
+GCS - Motor Response
+Pupil Size Right
+Response to Stimuli (Type)
+Braden Sensory Perception
+Impaired Skin Site #1
+Impaired Skin Cleanse #1
+Impaired Skin Treatment #1
+Impaired Skin Wound Base #1
+Impaired Skin Drainage #1
+Multi Lumen Site Appear
+Multi Lumen Waveform Appear
+Surrounding Tissue #1
+Tunneling Present #1
+Chest PT R/L
+Education Topic
+RUE Sensation
+LUE Sensation
+LLE Sensation
+GI #1 Tube Type
+GI Guaiac
+GI #1 Intub Site
+Radial Pulse R
+Radial Pulse L
+GI #1 Tube Drainage
+GI #1 Tube Place Check
+Undermining Present #2
+Dressing Status #2
+Incision Site #1
+Incision Site #2
+Impaired Skin  - Dressing Status #1
+Impaired Skin Type #1
+Undermining Present #1
+Impaired Skin Drainage Amount #1
+Impaired Skin Drainage #2
+Impaired Skin Drainage Amount #2
+Impaired Skin Site #2
+Impaired Skin Treatment #2
+Impaired Skin Type #2
+Impaired Skin Wound Base #2
+Tunneling Present #2
+Incision Dressing #3
+Dressing Status #3
+Incision Site #3
+Stool Estimate
+Cervical Collar Status
+PT Splint Location #1
+PT Splint Status #1
+Circulation/Skin Integrity
+Non-Violent Restraints
+Reason for Restraints (Non-Violent)
+Restraint Device (Non-Violent)
+20 G Phlebitis Scale
+20 G Infiltration Scale
+Past medical history
+CV - past medical history
+RLE Sensation
+Pronator drift present
+Stool Consistency
+Stool Color
+Orientation to Person
+Orientation to Place
+Orientation to Time
+Commands Response
+Commands
+Strength L Arm
+Strength L Leg
+Strength R Leg
+Strength R Arm
+Multi Lumen Placement Confirmed by X-ray
+Precautions: Standard +
+Incision Drainage Amount #1
+Incision Drainage Amount #2
+Incision Drainage Amount #3
+Discharge to
+Sustained Nystagmus
+Gender
+Language
+Race
+Patient Location
+CAM-ICU Disorganized thinking
+Interpreter
+Balance
+Judgement
+Teaching directed toward
+Consults
+Patient valuables
+Capillary Refill R
+22 Gauge Site Appear
+Face to Face Eval (Non-Violent)
+Capillary Refill L
+Warming Device
+Pressure Ulcer Stage #1
+Living situation
+Use of assistive devices
+Appetite
+Baseline pain level
+Tobacco Use History
+Admit from
+Impaired Skin Site #3
+Impaired Skin Treatment #3
+Impaired Skin Type #3
+Cordis/Introducer Discontinued
+CAM-ICU MS change
+CAM-ICU RASS LOC
+Passey Muir Valve in use
+Trach Tube Type
+Trach Tube Manufacturer
+Trach Tube Size (I.D.)
+Restraint Ordered (Non-violent)
+Status and Comfort
+Cordis/Introducer Placement Confirmed by X-ray
+Warming Device Status
+Incontinent (estimate)
+Range of Motion Location
+Range of Motion Status
+Peritoneal Dialysis Catheter Status
+Side Rails (Restraint)
+Non-Violent Restraints Ordered
+Less Restrictive Measures_V1
+Restraints Evaluated_V2
+RSBI Deferred
+MDI #1 Drug
+Reason for Restraint (Non-violent)
+Restraint Device (Non-violent)
+Face to Face Eval (Non-violent)
+Food and Fluid
+Urinal/Bedpan
+Signs of Injury from Intervention
+Less Restrictive Measures
+Patient/Family Informed
+Side  Rails
+22 Gauge Reason Discontinued
+Cuff Volume/units
+Peritoneal Dialysis Fluid Appearance
+Medication Added #1 (Peritoneal Dialysis)
+Solution (Peritoneal Dialysis)
+Medication Added Units #1 (Peritoneal Dialysis)
+Medication Added #2 (Peritoneal Dialysis)
+Medication Added Units #2 (Peritoneal Dialysis)
+22 G Phlebitis Scale
+22 G Infiltration Scale
+BiPap Mode
+BiPap Mask
+Autoset/CPAP
+18 Gauge Reason Discontinued
+Impaired Skin  - Dressing Status #2
+Peritoneal Dialysis Catheter Type
+Pheresis Catheter Discontinued
+Knee Location - Immobilizer
+Impaired Skin Cleanse #3
+Impaired Skin Drainage #3
+Impaired Skin Drainage Amount #3
+Impaired Skin Wound Base #3
+Pressure Ulcer Stage #3
+Surrounding Tissue #3
+Impaired Skin Cleanse #2
+Incision Packing #1
+Tunneled (Hickman) Site Appear
+Tunneled (Hickman) Placement Confirmed by X-ray
+16 Gauge Site Appear
+PT Splint Location #2
+PT Splint Status #2
+PAP Alarm Source
+CT #1 Leak
+CT #1 Suction Type
+CT #2 Suction Type
+Temporary Atrial Capture
+Known difficult intubation
+Chest Tube Site # 1
+Temporary Atrial Sens
+Chest Tube Site # 2
+Surrounding Tissue #2
+Emesis Appearance
+CCO PAC Site Appear
+CCO PAC Waveform Appear
+CCO PAC Placement Confirmed by X-ray
+TOF Response
+TOF Twitch
+16 G Phlebitis Scale
+16 G Infiltration Scale
+PCA medication
+PCA  dose units
+PCA cleared
+PCA total dose units
+PCA 1 hour limit units
+Arterial Line Discontinued
+CT #1 Fluctuate
+Permanent Pacemaker Mode
+OCAT - Lips Tongue Gums Palate
+OCAT - Saliva secretions, Voice quality
+OCAT - Swallow
+OCAT - Teeth
+Nausea and Vomiting (CIWA)
+Tremor (CIWA)
+Agitation
+Orient/Clouding Sensory
+Airway problems
+Ulnar Pulse R
+Brachial Pulse R
+Femoral Pulse R
+Popliteal Pulse R
+Brachial Pulse L
+Femoral Pulse L
+Popliteal Pulse L
+Ulnar Pulse L
+AV Fistula L Bruit
+AV Fistula L Thrill
+SBT Started
+SBT Successfully Completed
+CCO PAC Discontinued
+Less Restrictive Measures (Acute Med/Surgical)
+Restraint Location_V1
+Side Rails_V1
+MDI #2 Drug
+Restraints Evaluated_V1
+Impaired Skin Site #4
+Replacement Fluid
+Dialysate Fluid
+MDI #3 Drug
+Impaired Skin Type #4
+Impaired Skin Wound Base #4
+Tunneling Present #3
+Undermining Present #3
+Reason for Restraint (Acute Medical/Surgical)_V1
+CAM-ICU Altered LOC
+CAM-ICU Inattention
+Changes in Temperature
+Muscle Aches
+Nausea and Vomiting (CINA)
+Tremor (CINA)
+Pressure Ulcer Stage #2
+Angio Site # 1
+Angio Appearance # 1
+Angio Dressing # 1
+CRRT mode
+Impaired Skin Cleanse #4
+Impaired Skin Drainage #4
+Impaired Skin Drainage Amount #4
+Impaired Skin Treatment #4
+SBT Deferred
+Goose Flesh
+Restlessness
+Lacrimation
+Pupils
+Abdominal Changes: Observation
+Impaired Skin Site #5
+Impaired Skin Type #5
+Impaired Skin Site #6
+Impaired Skin Type #6
+Less Restrictive Measures (Behavioral)
+Impaired Skin  - Dressing Status #3
+Surrounding Tissue #4
+Impaired Skin - Dressing Status  #4
+Impaired Skin Cleanse #7
+Impaired Skin Drainage #7
+Impaired Skin Drainage Amount #7
+Impaired Skin Site #7
+Impaired Skin Treatment #7
+Impaired Skin Type #7
+Impaired Skin Wound Base #7
+Pressure Ulcer Stage #7
+Surrounding Tissue #7
+Tunneling Present #7
+Undermining Present #7
+Impaired Skin  - Dressing Status #7
+Visual Field Cut
+Impaired Skin Cleanse #6
+Impaired Skin Cleanse #8
+Impaired Skin Drainage #6
+Impaired Skin Drainage #8
+Impaired Skin Drainage Amount #6
+Impaired Skin Drainage Amount #8
+Impaired Skin Site #8
+Impaired Skin Treatment #6
+Impaired Skin Treatment #8
+Impaired Skin Type #8
+Impaired Skin Wound Base #6
+Impaired Skin Wound Base #8
+Pressure Ulcer Stage #6
+Pressure Ulcer Stage #8
+Surrounding Tissue #6
+Surrounding Tissue #8
+Tunneling Present #6
+Tunneling Present #8
+Undermining Present #6
+Undermining Present #8
+Impaired Skin Cleanse #5
+Impaired Skin Drainage #5
+Impaired Skin Drainage Amount #5
+Impaired Skin Treatment #5
+Impaired Skin Wound Base #5
+Tunneling Present #5
+Ostomy
+Ostomy Appearance
+Presep Catheter Site Appear
+Patient Behavior During Application
+Status and Comfort (Behavioral)
+Presep Catheter Waveform Appear
+Undermining Present #5
+GU Irrigant Type
+Cooling Device
+Cooling Device Status
+Small Volume Neb Drug #2
+Neuro Drain #1 Type
+Incision Packing #2
+Intra Aortic Balloon Pump Setting
+IABP Site Appear
+IABP Art. Waveform Appear
+IABP Size
+IABP Balloon Waveform
+Restraint Device (Violent)
+Face to Face Eval (Violent)
+Restraints (Violent)
+Restraints Ordered (Violent)
+Reason for Restraint (Violent)
+ART Blood Pressure Alarm Source
+Presep Catheter Discontinued
+PA Catheter Site Appear
+PA Catheter Waveform Appear
+IABP Trigger
+IABP Helium Tubing
+IABP Arterial Waveform Source
+IABP Power Source
+IABP Position on leg
+Reason for Restraint (Behavioral)_V1
+ATC Tube #
+16 Gauge Reason Discontinued
+GCSEyeApacheIIValue
+GCSMotorApacheIIValue
+GCSVerbalApacheIIValue
+Admission location
+APACHE IV diagnosis choice 1
+APACHE IV diagnosis choice 2
+APACHE IV diagnosis
+Chronic health on admission
+Type of admission
+APACHE II Diagnosistic weight factors - Medical
+ApacheII chronic health
+APACHEII-Chronic health points
+Reason for CRRT Filter Change
+IABP Placement Confirmed by X-ray
+PICC Line Discontinued
+Pressure Ulcer Stage #4
+14 Gauge Site Appear
+Indwelling Port (PortaCath) Site Appear
+Indwelling (PortaCath) Port Type
+Trauma Line Site Appear
+Trauma Line Placement Confirmed by X-ray
+Circuit Changed
+Dialysis Catheter Discontinued
+Midline Site Appear
+Midline Placement Confirmed by X-ray
+Tunneling Present #4
+Undermining Present #4
+Surrounding Tissue #5
+Site Appearance - Adjunctive Pain Management
+Multi Lumen Line Discontinued
+SvO2 SQI
+Pressure Ulcer Stage #5
+Impaired Skin  - Dressing Status #5
+Impaired Skin  - Dressing Status #6
+Incision Packing #3
+Incision Site #4
+GI #3 Intub Site
+GI #3 Tube Place Check
+GI #3 Tube Drainage
+GI #3 Tube Type
+GI #3 Tube Status
+Indwelling Port (PortaCath) Discontinued
+Angio Site # 2
+Angio Appearance # 2
+Angio Dressing # 2
+Triple Introducer Site Appear
+Knee Immobilizer Status
+Restraint/Seclusion Observer Sheet
+Reason for Restraint/Seclusion (Violent)
+Violent Restraints
+Incision Closure #4
+Incision Drainage #4
+Incision Dressing #4
+Dressing Status #4
+Incision Appearance #4
+Incision Drainage Amount #4
+Self Feeding
+Grooming
+UE Bathing
+LE Bathing
+UE Dressing
+LE Dressing
+Toileting
+Supine / Side-lying to Sit
+Transfer
+Pain (0-10)
+Anticipated Discharge
+CT #3 Leak
+CT #3 Suction Type
+CT #2 Fluctuate
+CT #2 Leak
+Presep Catheter Placement Confirmed by X-ray
+Neuro Drain #1 Status
+Recruitment Mode
+CT #3 Fluctuate
+Incision Cleansing #4
+Incision Packing #4
+PA Catheter Placement Confirmed by X-ray
+Violent Restraints Ordered
+PCA bolus units
+Traction/Immobile Location #1
+RIC Site Appear
+Impaired Skin Drainage Amount #9
+Impaired Skin Site #9
+Shivering
+Arctic Sun Temp #1 Location
+Arctic Sun Temp #2 Location
+Airway Size (mm)
+Impaired Skin Drainage #9
+Airway Location
+SBT Stopped
+Neuro Drain #1 Level
+Neuro Drain #1 Drainage
+ICP Line Site Appear
+ICP Line Waveform Appear
+Neuro Drain Landmark
+AVA Line Site Appear
+AVA Line Placement Confirmed by X-ray
+Compression device # 1
+Shivering Assessment
+Neurological Symptoms
+Sheath Site Appear
+Small Volume Neb Drug #1
+Sheath Placement Confirmed by X-ray
+Sheath Waveform Appear
+Sheath Size
+PCA concentrations
+Compression device # 2
+PAR-Activity
+PAR-Circulation
+PAR-Consciousness
+PAR-Oxygen saturation
+PAR-Respiration
+AVA Line Discontinued
+AVA Waveform Appearance
+ScvO2 (Presep) SQI
+Acute rehab
+Case Management discharge plan
+Required documentation
+Impaired Skin  - Dressing Status  #8
+Angio Appearance # 3
+Angio Dressing # 3
+Angio Site # 3
+Compression device # 3
+Pheresis Catheter Placement Confirmed by X-ray
+Sheath Line Discontinued
+PA Catheter Discontinued
+14 G Phlebitis Scale
+14 G Infiltration Scale
+Continuous Pressure Machine Status
+Knee Location - CPM
+Neuro Drain #1 Landmark
+Heparin Concentration (units/mL)
+ICP Line Discontinued
+Home Management
+Money Management
+Community Integration
+Position - Rest - Aerobic Activity Response
+Position - Activity - Aerobic Activity Response
+Position - Recovery - Aerobic Activity Response
+Rolling
+Patient on vent
+Pericardial Drain Status
+Pericardial Drain Drainage
+Pericardial Drain Site
+Dressing Status #5
+Incision Site #5
+14 Gauge Reason Discontinued
+Intra Aortic Ballon Pump Setting
+IABP Line Discontinued
+Midline Discontinued
+Cont Neb - Med
+RIC Reason Discontinued
+Impaired Skin Treatment #9
+Impaired Skin Type #9
+Incision Appearance #5
+Incision Cleansing #5
+Incision Closure #5
+Incision Drainage #5
+Incision Drainage Amount #5
+Incision Dressing #5
+Trauma Line Discontinued
+Sit to Stand
+Other (Activity); Specify
+Cont. Neb Med Dose
+Enema administration
+Passive Leg Raise Performed
+Motor Deficit
+Fundus Character
+Fundus Location (Breadth)
+Lochia Character
+Lochia Estimate
+Pad Change/Hour
+Clots
+Leg Raise Result (NICOM)
+Impaired Skin Cleanse #9
+Impaired Skin  - Dressing Status #9
+Impaired Skin Wound Base #9
+Pressure Ulcer Stage #9
+Surrounding Tissue #9
+Tunneling Present #9
+Impaired Skin Cleanse #10
+Impaired Skin Drainage #10
+Impaired Skin Drainage Amount #10
+Impaired Skin Site #10
+Impaired Skin Treatment #10
+Impaired Skin Type #10
+Pressure Ulcer Stage #10
+Surrounding Tissue #10
+Impaired Skin  - Dressing Status #10
+IO Dressing
+IO Placed in outside facility
+IO Site Appearance
+IO Wristband in place
+GI #3 Tube Place Method
+Neuro Drain #2 Type
+Neuro Drain #2 Status
+Neuro Drain #2 Drainage
+Neuro Drain #2 Level
+Neuro Drain #2 Landmark
+Impaired Skin Wound Base #10
+BIS - EMG
+BIS - SQI
+Indwelling (PortaCath) Port #1
+Indwelling (PortaCath) Port #2
+Undermining Present #9
+Tunneled (Hickman) Line Discontinued
+Triple Introducer Placement Confirmed by X-ray
+Triple Introducer Discontinued
+Type (Tandem Heart)
+Tandem Heart Access Line Cannula Site
+Tandem Heart Access Line Position
+Tandem Heart Access Line Site Appear
+Tandem Heart Access Line Type
+Tandem Heart Return Cannula Position
+Tandem Heart Return Cannula Site
+Tandem Heart Return Cannula Site Appear
+Tandem Heart Return Cannula Size
+Tandem Heart Access Line Postion Confirmed
+APACHE II Diagnosistic weight factors - Surgical
+Traction/Immobile Location #2
+APACHE IV main groups non-operative
+Non-Operative Respiratory (RESPIRAT)
+Skilled nursing facility
+Commode
+Home with services
+Breast Feeding
+RIC Phlebitis Scale
+RIC Infiltration Scale
+CT #4 Leak
+CT #4 Suction Type
+CT #4 Fluctuate
+Tunneling Present #10
+Undermining Present #10
+Incision Packing #5
+Incision Appearance #6
+Incision Cleansing #6
+Incision Closure #6
+Incision Drainage #6
+Incision Drainage Amount #6
+Incision Dressing #6
+Dressing Status #6
+Incision Site #6
+PT Splint Location #3
+PT Splint Status #3
+Triple Introducer Waveform Appear
+Weight Bearing Status
+Dual Signal Screen
+Performance Level
+Placement Monitoring Screen
+Breast Feeding - L
+Breast Feeding - R
+Impella Catheter Site
+Impella Placement Confirmed
+Impella Postion Confirmed
+Impella Position
+Impella Line Site Appear
+PT Splint Location #4
+PT Splint Status #4
+Incision Packing #6
+Traction/Immobile Location #3
+Reflexes LE
+Reflexes UE
+Assistive Device
+Peripheral Pulses (Tandem Heart)
+Tandem Heart Return Cannula Discontinued
+VNA / home infusion
+Intubation - Details
+Tandem Heart Access Line Discontinued
+Angio Appearance # 4
+Angio Dressing # 4
+Angio Site # 4
+APACHE II Diagnosistic weight factors - Surgical emergency
